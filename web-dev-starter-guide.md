@@ -1,27 +1,35 @@
 # Web Development Starter Guide
 
+To begin with, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of what techs fall into the umbrella of web development.
+
 ## [fullstackopen](https://fullstackopen.com/)
 
-This is the best open comprehensive intro course to web dev on the internet as of now. Do not expect much depth but it covers up-to-date techs that companies actually use, including React, Node, Express, GraphQL, TypeScript, React Native (for mobile dev), CI/CD, docker and databases. If you don't have basics of HTML, CSS & JavaScript, do a crash course on them.
+This is the best open comprehensive intro course to web dev on the internet as of now. Do not expect much depth but it covers up-to-date techs that companies actually use, including React, Node, Express, GraphQL, TypeScript, React Native (for mobile dev), CI/CD, docker and databases. If you don't have basics of HTML, CSS and JavaScript, do a crash course on them.
 
-Optional:
+Prerequisites:
 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap: This is a popular FE library. Larger organizations have their own frameworks team (their own FE library) so they don't use Bootstrap. Try use it if you want to get the idea.
+
+Optional:
+
+- Bootstrap: This is a popular CSS library. Larger organizations have their own frameworks team so they don't use Bootstrap.
+- DOM
+- Web API
+- jQuery
 
 Alternatives:
 
 - The Odin Project: Choose the Full Stack JavaScript path; who uses Ruby on Rails!
-- Angela Yu's web dev course on udemy
-- freeCodeCamp: I found it too nuanced and time-consuming
+- Angela Yu's web dev course on Udemy
+- freeCodeCamp: More nuanced
 
 ## [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-The best React course. For FE, all you need is HTML, CSS, JavaScript and React. React is the most popular FE framework. This course includes Redux, React Router and Next.js as well.
+The best React course. React is the most popular FE framework. This course includes Redux, React Router and Next.js as well.
 
-Only buy udemy courses when they're on sale.
+Only buy Udemy courses when they're on sale.
 
 Alternatives:
 
@@ -29,7 +37,7 @@ Alternatives:
 
 ## [NodeJS course](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-The best NodeJS course, taught by the same instructor as the React course above. For modern web app BE, the tech stack consists of Node, Express, GraphQL, NoSQL DB (e.g. MongoDB), REST API, SQL DB (e.g. Postgres). This course is all you need for BE.
+The best NodeJS course, taught by the same instructor as the React course above. For modern web app BE, the tech stack consists of Node, Express, GraphQL, REST API, NoSQL DB (e.g. MongoDB), SQL DB (e.g. Postgres).
 
 Optional:
 
@@ -56,7 +64,7 @@ If you want to work as a Cloud Engineer, DevOp or {MLE/DE that leverages cloud i
 2. AWS Certified Solutions Architect - Associate, then
 3. AWS Certified Developer - Associate
 
-I don't recommend skipping CCP, unless you already are familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worthy to attempt.
+I don't recommend skipping CCP, unless you already are familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worthy (the time) to attempt.
 
 Alternatives:
 
