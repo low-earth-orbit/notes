@@ -1,6 +1,6 @@
 # Web Development Starter Guide
 
-To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) To begin, read the Full Stack Developer Roadmap to get an idea of the technologies that fall under the umbrella of web development.
+To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
 ## [fullstackopen](https://fullstackopen.com/)
 
