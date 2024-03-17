@@ -1,10 +1,10 @@
 # Web Development Starter Guide
 
-To begin with, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of what techs fall into the umbrella of web development.
+To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) To begin, read the Full Stack Developer Roadmap to get an idea of the technologies that fall under the umbrella of web development.
 
 ## [fullstackopen](https://fullstackopen.com/)
 
-This is the best open comprehensive intro course to web dev on the internet as of now. Do not expect much depth but it covers up-to-date techs that companies actually use, including React, Node, Express, GraphQL, TypeScript, React Native (for mobile dev), CI/CD, docker and databases. If you don't have basics of HTML, CSS and JavaScript, do a crash course on them.
+This is the best comprehensive introductory course to web development available on the internet. Do not expect much depth but it covers up-to-date technologies that companies actually use. These include React, Node, Express, GraphQL, TypeScript, React Native (for mobile development), CI/CD, Docker, and databases. If you’re not familiar with the basics of HTML, CSS, and JavaScript, consider doing a crash course on those topics.
 
 Prerequisites:
 
@@ -14,7 +14,7 @@ Prerequisites:
 
 Optional:
 
-- Bootstrap: This is a popular CSS library. Larger organizations have their own frameworks team so they don't use Bootstrap.
+- Bootstrap: A popular CSS library. Note that larger organizations often have their own frameworks and may not use Bootstrap.
 - DOM
 - Web API
 - jQuery
@@ -27,9 +27,9 @@ Alternatives:
 
 ## [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-The best React course. React is the most popular FE framework. This course includes Redux, React Router and Next.js as well.
+This is the best React course available. React is the most popular front-end framework. The course also covers Redux, React Router, and Next.js.
 
-Only buy Udemy courses when they're on sale.
+Buy Udemy courses only when they're on sale.
 
 Alternatives:
 
@@ -37,12 +37,12 @@ Alternatives:
 
 ## [NodeJS course](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-The best NodeJS course, taught by the same instructor as the React course above. For modern web app BE, the tech stack consists of Node, Express, GraphQL, REST API, NoSQL DB (e.g. MongoDB), SQL DB (e.g. Postgres).
+This course, taught by the same instructor as the React course above, is the best resource for learning NodeJS. For modern back-end web applications, the tech stack typically includes Node, Express, GraphQL, REST APIs, NoSQL databases (e.g., MongoDB), and SQL databases (e.g., Postgres).
 
 Optional:
 
 - Java and Oracle: Many companies (still) use Java and Oracle database.
-- Some companies use Python for BE
+- Some companies use Python for back-end development.
 
 ## Git & CLI
 
@@ -72,7 +72,7 @@ Alternatives:
 
 ## Leet
 
-I recommend starting with a curated list of questions - [Grind75](https://www.techinterviewhandbook.org/grind75). There is a decreasing marginal return per the number of problems solved. If you don't know the theory, take algorithm courses that covers relevant topics.
+I recommend starting with a curated list of questions - [Grind75](https://www.techinterviewhandbook.org/grind75). There is a decreasing marginal return per the number of problems solved. If you don't know the theory, take algorithm courses that cover relevant topics.
 
 Optional:
 
