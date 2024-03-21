@@ -1,8 +1,6 @@
 # Web Development Starter Guide
 
----
-
-## Foundation
+### Foundation
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
@@ -29,7 +27,7 @@ To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 
 ---
 
-## React
+### React
 
 React is the most popular front-end framework. [This](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) is the best React course available. The course also covers Redux, React Router, and Next.js.
 
@@ -41,7 +39,7 @@ React is the most popular front-end framework. [This](https://www.udemy.com/cour
 
 ---
 
-## Backend
+### Backend
 
 [This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is the best resource for learning NodeJS. For modern back-end web applications, the tech stack typically includes Node, Express, GraphQL, REST APIs, NoSQL databases (e.g., MongoDB), and SQL databases (e.g., Postgres).
 
@@ -51,13 +49,13 @@ React is the most popular front-end framework. [This](https://www.udemy.com/cour
 
 ---
 
-## Tools: Git & CLI
+### Tools: Git & CLI
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) is a good place. It may cover a wider range of topics than you need. Git and CLI are the musts.
 
 ---
 
-## Agile Methodologies
+### Agile Methodologies
 
 If you haven't worked in an Agile team, it is good to know the basics of Agile. Watching a few videos on Agile is enough. The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a PM - two-day training and easy exam; for other roles, the certification doesn't carry much value.
 
@@ -67,7 +65,7 @@ If you haven't worked in an Agile team, it is good to know the basics of Agile. 
 
 ---
 
-## Cloud: AWS
+### Cloud: AWS
 
 If you want to work as a Cloud Engineer, DevOp or {MLE/DE that leverages cloud infrastructure}, get an **associate**-level certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people, I recommend this path:
 
@@ -83,7 +81,7 @@ I don't recommend skipping CCP, unless you already are familiar with cloud infra
 
 ---
 
-## Leetcode
+### Leetcode
 
 I recommend starting with a curated list of questions - [Grind75](https://www.techinterviewhandbook.org/grind75). There is a decreasing marginal return per the number of problems solved. If you don't know the theory, take algorithm courses that cover relevant topics.
 
@@ -97,7 +95,7 @@ I recommend starting with a curated list of questions - [Grind75](https://www.te
 
 ---
 
-## Books
+### Books
 
 Recommended books to read for leisure:
 
