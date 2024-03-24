@@ -23,7 +23,6 @@ To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 
 - The Odin Project: Preferably the Full Stack JavaScript path.
 - Angela Yu's web dev course on Udemy
-- freeCodeCamp: More nuanced
 
 ---
 
@@ -57,7 +56,9 @@ React is the most popular front-end framework. [This](https://www.udemy.com/cour
 
 ### Agile Methodologies
 
-If you haven't worked in an Agile team, it is good to know the basics of Agile. Watching a few videos on Agile is enough. The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a PM - two-day training and easy exam; for other roles, the certification doesn't carry much value.
+If you haven't worked in an Agile team, it is good to know the basics of Agile. Watching a few videos on Agile / a Software Engineering course that covers Agile should be enough.
+
+The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a PM - two-day training and easy exam; for other roles, the certification doesn't carry much value / don't waste your money.
 
 ###### Alternatives:
 
@@ -67,17 +68,18 @@ If you haven't worked in an Agile team, it is good to know the basics of Agile. 
 
 ### Cloud: AWS
 
-If you want to work as a Cloud Engineer, DevOp or {MLE/DE that leverages cloud infrastructure}, get an **associate**-level certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people, I recommend this path:
+If you want to work as a Cloud Engineer, DevOp or {MLE/DE that leverages cloud infrastructure}, get an **associate**-level certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people, I recommend the Application Architect path.
 
-1. AWS Certified Cloud Practitioner, then
-2. AWS Certified Solutions Architect - Associate, then
-3. AWS Certified Developer - Associate
+I don't recommend skipping CCP, unless you already are familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worthy to attempt in terms of time efficiency.
 
-I don't recommend skipping CCP, unless you already are familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worthy (the time) to attempt.
+###### Prerequisites:
+
+- Computer Networking, or preferably Cloud Computing
+- Software Architecture/Design Patterns
 
 ###### Alternatives:
 
-- AWS is the most popular public cloud, Azure the second, followed then by Google.
+- AWS is the most popular public cloud, Azure the second, followed then by GCP.
 
 ---
 
@@ -103,6 +105,16 @@ Recommended books to read for leisure:
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 - [System Design Interview](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+
+---
+
+### Resources
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers core courses in a typical Bachelor's degree program.
+
+- [Open Source Society University](https://github.com/ossu/computer-science) references resource on more topics.
+
+- If you're unsure about which resource is better for a topic, check on Reddit.
 
 ---
 
