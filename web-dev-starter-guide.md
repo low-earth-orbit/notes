@@ -42,9 +42,9 @@ _Optional:_
 
 ## Agile Methodologies
 
-If you haven't worked in an Agile team, it is good to know the basics of Agile. Watching a few videos on Agile or a Software Engineering course that covers Agile should be enough.
+If you haven't worked in an Agile team, it is good to know the basics of Agile. An introductory course on Agile or a Software Engineering course that covers Agile should be enough.
 
-The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a PM - two-day training and easy exam; for other roles, the certification doesn't carry much value.
+The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a PM - two-day training and easy exam; alternatively, [PMP](https://www.pmi.org/certifications) by PMI if you're eligible. For other roles, these certification don't carry much value.
 
 ## Cloud: AWS
 
