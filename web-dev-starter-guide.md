@@ -48,7 +48,7 @@ The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) c
 
 ## Cloud: AWS
 
-If you want to work as a Cloud Engineer, DevOp or Cloud MLE/DE, get an **associate-level** certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people, I recommend the Application Architect path.
+If you want to work as a Cloud Engineer, DevOp or Cloud MLE/DE, get an **associate-level** certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
 I don't recommend skipping CCP, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
