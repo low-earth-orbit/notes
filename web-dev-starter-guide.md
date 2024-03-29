@@ -84,9 +84,17 @@ Recommended books to read for leisure:
 
 ## Additional Resources
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program.
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program. After reflecting from what I learned in my CS degree, I recommend the following topics for non-CS backgrounders to make up missing theory:
 
-- [Open Source Society University](https://github.com/ossu/computer-science) references resources on more topics.
+  - Programming (Java or Python)
+  - Databases
+  - Discrete math
+  - Software engineering
+  - Data structures and algorithms
+  - Computer architecture
+  - Computer networking
+
+- [Open Source Society University](https://github.com/ossu/computer-science) references resources on more topics. It can be used for cherry-picking.
 
 If you're unsure about which resource is better for a topic, check on Reddit.
 
