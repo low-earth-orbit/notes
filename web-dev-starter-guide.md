@@ -1,8 +1,8 @@
 # Web Development Starter Guide
 
-This guide is created to offer useful information to those interested in pursuing a career in full-stack web development, whether they are computer science students or come from a non-CS background.
+This guide is created to offer a study guide to those interested in pursuing a career in full-stack web development, whether they are computer science students or come from a non-CS background.
 
-If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first year of study.
+If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
 If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 
@@ -12,13 +12,13 @@ To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 
 [fullstackopen](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the internet. Do not expect much depth, but it covers up-to-date technologies that companies actually use.
 
-If you prefer video-based learning, I recommend Angela Yu's course, linked below.
+If you prefer video-based learning, I recommend Angela Yu's course on Udemy, linked below.
 
 **Buy Udemy courses only when they're on sale.**
 
 _Alternatives:_
 
-- [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
+- [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ## React
 
@@ -26,7 +26,7 @@ React is the most popular front-end framework. [This](https://www.udemy.com/cour
 
 _Alternatives:_
 
-- Some companies use other frameworks such as Angular and Vue.
+- Some companies use other frameworks such as Angular and Vue.js.
 
 ## NodeJS
 
@@ -38,17 +38,19 @@ _Optional:_
 
 ## Tools
 
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) is a good place. It may cover a wider range of topics than you need. Git and CLI are musts.
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) is a good place. It may cover a wider range of topics than you need, but Git and CLI are musts.
 
-## Agile Methodologies
+Additionally, I recommend using Visual Studio Code with ESLint and Prettier configured, using GitHub for all your projects and setting up a Linux machine (if you’re not using a Mac).
 
-If you haven't worked in an Agile team, it is good to know the basics of Agile. An introductory course on Agile or a Software Engineering course that covers Agile should be enough.
+## Agile
 
-The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a Project Manager - two-day training and easy exam; alternatively, [PMP](https://www.pmi.org/certifications) by PMI if you're eligible. For other roles, these certification don't carry much value.
+If you haven't worked in an Agile team, it is good to know the basics of Agile. An introductory course on Agile or a Software Engineering course that includes Agile should suffice.
+
+The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a Project Manager - two-day training and easy exam; Alternatively, consider the [PMP](https://www.pmi.org/certifications) by PMI if you're eligible. For other roles, these certification don't carry much value.
 
 ## Cloud: AWS
 
-If you want to work as a Cloud Engineer, DevOp or Cloud MLE/DE, get an **associate-level** certificate; for other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
+If you want to work as a Cloud Engineer, DevOp or Cloud MLE/DE, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
 I don't recommend skipping CCP, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
@@ -84,7 +86,7 @@ Recommended books to read for leisure:
 
 ## Additional Resources
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program. After reflecting from what I learned in my CS degree, I recommend the following topics for non-CS backgrounders to make up missing theory:
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program. After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in any missing theory:
 
   - Programming (Java or Python)
   - Databases
@@ -94,8 +96,8 @@ Recommended books to read for leisure:
   - Computer architecture
   - Computer networking
 
-- [Open Source Society University](https://github.com/ossu/computer-science) references resources on more topics. It can be used for cherry-picking.
+- [Open Source Society University](https://github.com/ossu/computer-science) contains references to more topics. It can be used for cherry-picking.
 
-If you're unsure about which resource is better for a topic, check on Reddit.
+If you're unsure about which resource is better for a particular topic, check on Reddit.
 
 After completing all the above steps, connect with me on [LinkedIn](https://www.linkedin.com/in/leo-hong/)😝. I will send you a congratulations message.
