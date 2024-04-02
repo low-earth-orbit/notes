@@ -40,7 +40,11 @@ _Optional:_
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) is a good place. It may cover a wider range of topics than you need, but Git and CLI are musts.
 
-Additionally, I recommend using Visual Studio Code with ESLint and Prettier configured, using GitHub for all your projects and setting up a Linux machine (if you’re not using a Mac).
+Additionally, I recommend the following:
+
+- OpenAPI Specification
+- Semantic Versioning
+- Figma
 
 ## Agile
 
