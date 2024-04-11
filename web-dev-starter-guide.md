@@ -75,10 +75,6 @@ _Prerequisites:_
 
 - Data structures and algorithms
 
-_Optional:_
-
-- [Cracking the coding interview](https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/) (book)
-
 ## Books
 
 Recommended books to read for leisure:
