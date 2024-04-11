@@ -14,29 +14,25 @@ I think I miss a bit software architecture and design.
 
 ## Data Science & AI
 
-Roadmap:
+Roadmap first
 
 - AI roadmap: <https://i.am.ai/roadmap>
 
 - AI and Data Scientist Roadmap: <https://roadmap.sh/ai-data-scientist>
 
-### Data Analytics/Fundamentals
-
-[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) (6 months at 10 hours a week)
-
 ### Data Science
 
-[HarvardX: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) (8 weeks, 3–4 hours per week)
+[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science): covers analytics side of data science, with intro to machine learning
 
-### Data Engineering/Big Data
+[HarvardX: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python): more about statistics side of data science.
 
-- [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+### Data Engineering
+
+- [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer): ETL, data pipelines & databases
 
 - AWS Certified Data Engineer - Associate
 
 ### AI: Introduction
-
-[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) (6 hours to complete)
 
 [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) (7 weeks long, 10 - 30 hours per week)
 
@@ -44,13 +40,15 @@ Roadmap:
 
 #### ML
 
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) (2 months at 10 hours a week)
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 #### Deep Learning
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-#### NLP & LLM
+#### NLP
+
+[Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 #### MLOps
 
@@ -58,9 +56,7 @@ Roadmap:
 
 ## UX design
 
-- Good to know if I work on front end
-
-## HCI
+[Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 
 ## Modern Java / Java Backend Framework
 
