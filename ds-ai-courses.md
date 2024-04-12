@@ -14,7 +14,7 @@ Roadmap first
 
 ## SQL
 
-[The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+- [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
 ## Data Science
 
@@ -23,6 +23,12 @@ Roadmap first
 - [HarvardX: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python): Covers the statistics side of data science.
 
 - Book: [An Introduction to Statistical Learning](https://www.statlearning.com/) (preferably the Python version)
+
+## Tools
+
+- Git
+- Command-line environment
+- Visual Studio Code
 
 ## Data Engineering
 
