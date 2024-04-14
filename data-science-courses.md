@@ -21,7 +21,7 @@ A curriculum for DA/DS/MLE/DE.
 - Linear Algebra (for DS/MLE)
 - Probability and Statistics (for DA/DS/MLE/DE)
 
-### Programming
+### Computer Science
 
 - Python
 
@@ -32,7 +32,14 @@ A curriculum for DA/DS/MLE/DE.
   - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
 - Data structures and algorithms (not required for DA)
+
   - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+
+- For DE:
+  - Database Design
+  - Software Engineering (Software Development Process, Software Architecture & Design)
+  - Computer Networks
+  - Computer Architecture
 
 ### Tools
 
@@ -48,9 +55,9 @@ Take both:
 
   - _This is the milestone for DA... For DA, you probably need Excel, Tableau, SAS, Power BI etc. in addition to Python..._
 
-- [HarvardX: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python): Covers the statistics side of data science.
-
-Book for reference: [An Introduction to Statistical Learning](https://www.statlearning.com/) (preferably the Python version)
+- [HarvardX: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python)
+  - Covers the statistics side of data science.
+  - Book for reference: [An Introduction to Statistical Learning](https://www.statlearning.com/) (preferably the Python version)
 
 _This is the milestone for DS... Now there are two choices: Data Engineering or MLE. You can, of course, do both. MLE is harder. Sometimes positions prefer those who have graduate degrees. Resources listed here might not be enough. I suggest DE then dive deeper to ML if you're interested..._
 
