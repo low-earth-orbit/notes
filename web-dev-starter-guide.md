@@ -60,8 +60,8 @@ I don't recommend skipping CCP, unless you are already familiar with cloud infra
 
 _Prerequisites:_
 
-- Computer Networking, or preferably Cloud Computing
-- Software Architecture/Design Patterns
+- Computer Networks
+- Software Architecture and Design
 
 _Alternatives:_
 
@@ -94,7 +94,7 @@ Recommended books to read for leisure:
   - Software engineering
   - Data structures and algorithms
   - Computer architecture
-  - Computer networking
+  - Computer networks
 
 - [Open Source Society University](https://github.com/ossu/computer-science) contains references to more topics. It can be used for cherry-picking.
 
