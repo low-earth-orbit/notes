@@ -2,10 +2,10 @@
 
 A curriculum for data science related roles.
 
-- DA: Data analyst
-- DS: Data scientist
+- DA: Data Analyst
+- DS: Data Scientist
 - DE: Data Engineer
-- MLE: Machine learning engineer
+- MLE: Machine Learning Engineer
 
 ## Roadmap
 
@@ -29,11 +29,11 @@ For reference:
 
 ### Math and stats
 
-- Calculus (for DS/MLE)
-- Discrete Math (for DS/MLE/DE)
-- Linear Algebra (for DS/MLE)
+- Calculus (for MLE)
+- Discrete Math (for DE/MLE)
+- Linear Algebra (for DS/DE/MLE)
   - [MIT Open Course](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
-- Probability and Statistics (for DA/DS/MLE/DE)
+- Probability and Statistics
 
 ### Computer Science
 
@@ -45,13 +45,17 @@ For reference:
 
   - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
-- Data structures and algorithms (not required for DA)
+- Data structures and algorithms (for DE/MLE)
 
   - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 
 - For DE/MLE:
+  - General application development, including backend and APIs
+    - Angela Yu's [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) covers this in Python
+  - Software Engineering, including
+    - Software Development Process
+    - Software Architecture & Design
   - Database Design
-  - Software Engineering (Software Development Process, Software Architecture & Design)
   - Computer Networks
   - Computer Architecture
 
@@ -75,8 +79,9 @@ _This is the milestone for DS... Now there are two choices: Data Engineering or 
 
 ## Cloud Data Engineering
 
-Learn AWS and get these two certificates:
+Learn AWS and get these two certificates, in this order:
 
+- AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Data Engineer - Associate
 
