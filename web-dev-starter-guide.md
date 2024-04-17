@@ -34,7 +34,7 @@ _Alternatives:_
 
 _Optional:_
 
-- Some companies use Java, Python, Ruby for back-end development.
+- Some companies use Java Spring, Python Flask/Django, Ruby on Rails, C# .NET for back-end development.
 
 ## Tools
 
