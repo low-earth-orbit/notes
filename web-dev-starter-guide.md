@@ -10,7 +10,7 @@ If you come from a non-CS background, this guide requires a basic understanding 
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
-[fullstackopen](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the internet. Do not expect much depth, but it covers up-to-date technologies that companies actually use.
+[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the internet. Do not expect much depth, but it covers up-to-date technologies that companies actually use.
 
 If you prefer video-based learning, I recommend Angela Yu's course on Udemy, linked below.
 
@@ -81,7 +81,7 @@ Recommended books to read for leisure:
 
 - [The Software Engineer's Guidebook](https://www.amazon.ca/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
-- [System Design Interview](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- System Design Interview [Volume 1](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) [Volume 2](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 
 ## Additional Resources
@@ -90,7 +90,7 @@ Recommended books to read for leisure:
 
   - Programming (Java or Python)
   - Databases
-  - Discrete math
+  - Discrete structures
   - Software engineering
   - Data structures and algorithms
   - Computer architecture
