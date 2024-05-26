@@ -2,7 +2,7 @@
 
 This note introduces example "couch potato" portfolios for Chinese investors.
 
-**For the average person, a low-cost, indexed, strictly passiv, well-diversified portfolio consisting of bonds and stocks is the best way to invest money.** 
+**For the average person, a low-cost, indexed, strictly passive, well-diversified portfolio consisting of bonds and stocks is the best way to invest money.**
 
 Here are a few takes:
 
@@ -22,7 +22,7 @@ In Canada, resources like the Canadian Couch Potato[^1] and the Canadian Portfol
 
 ## Available Asset Classes
 
-The meaningful and accessible asset classes for investors in mainland China, available as mutual funds or ETFs[^7], are as follows:
+The meaningful and accessible asset classes for investors in mainland China, available as mutual funds (公募基金) or ETFs[^7], are as follows:
 
 - Domestic Bonds
   - Various segments available, including government, investment grade, high-yield and convertible.
@@ -181,4 +181,4 @@ pie
 
 [^6]: Canadian Portfolio Manager. <https://www.canadianportfoliomanagerblog.com/>
 
-[^7]: Bank deposits and direct real estate investing are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as publicly traded mutual funds. I wouldn't recommend private funds (私募基金) nor private equities (私募股权).
+[^7]: Bank deposits and direct real estate investing are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. I wouldn't recommend private funds (私募基金) nor private equities (私募股权).
