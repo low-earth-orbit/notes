@@ -1,6 +1,6 @@
 # Web Development Starter Guide
 
-This guide is created to offer a study guide to those interested in pursuing a career in full-stack web development, whether they are computer science students or come from a non-CS background.
+This is a study guide to those interested in pursuing a career in full-stack web development, whether they are computer science students or come from a non-CS background.
 
 If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
@@ -10,9 +10,7 @@ If you come from a non-CS background, this guide requires a basic understanding 
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
-[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the internet. Do not expect much depth, but it covers up-to-date technologies that companies actually use.
-
-If you prefer video-based learning, I recommend Angela Yu's course on Udemy, linked below.
+[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the Internet. If you prefer video-based learning, I recommend Angela Yu's course on Udemy, linked below.
 
 **Buy Udemy courses only when they're on sale.**
 
@@ -30,11 +28,11 @@ _Alternatives:_
 
 ## NodeJS
 
-[This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is the best resource for learning NodeJS.
+[This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is the best resource for learning Node/Express.
 
 _Optional:_
 
-- Some companies use Java Spring, Python Flask/Django, Ruby on Rails, C# .NET for back-end development.
+- Some companies use Java Spring, C# .NET, Python Flask/Django, Ruby on Rails for back-end development.
 
 ## Tools
 
@@ -42,6 +40,7 @@ _Optional:_
 
 Additionally, I recommend the following:
 
+- React component library (e.g. MUI)
 - OpenAPI Specification
 - Semantic Versioning
 - Figma
@@ -54,7 +53,7 @@ The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) c
 
 ## Cloud: AWS
 
-If you want to work as a Cloud Engineer, DevOp or Cloud MLE/DE, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
+If you want to work as a Cloud Engineer, Cloud DevOp or Cloud MLE/DE, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
 I don't recommend skipping CCP, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
