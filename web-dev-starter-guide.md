@@ -82,6 +82,7 @@ Recommended books to read for leisure:
 - [The Software Engineer's Guidebook](https://www.amazon.ca/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 - System Design Interview [Volume 1](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) [Volume 2](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- [Designing Data-Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 
 ## Additional Resources
@@ -90,7 +91,7 @@ Recommended books to read for leisure:
 
   - Programming (Java or Python)
   - Databases
-  - Discrete structures
+  - Discrete structures / Math for CS
   - Software engineering
   - Data structures and algorithms
   - Computer architecture
