@@ -78,26 +78,31 @@ _Prerequisites:_
 
 Recommended books to read for leisure:
 
+- [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 - [The Software Engineer's Guidebook](https://www.amazon.ca/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
-- [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 - System Design Interview [Volume 1](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) [Volume 2](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Designing Data-Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
-- [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
+- [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 
 ## Additional Resources
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program. After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in any missing theory:
+- After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in any missing theory:
 
   - Programming (Java or Python)
   - Databases
   - Discrete structures / Math for CS
-  - Software engineering
   - Data structures and algorithms
-  - Computer architecture
+  - Software engineering, including
+    - Software architecture and design
+    - Software development processes
   - Computer networks
 
-- [Open Source Society University](https://github.com/ossu/computer-science) contains references to more topics. It can be used for cherry-picking.
+- Useful resources:
 
-If you're unsure about which resource is better for a particular topic, check on Reddit.
+  - [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program.
+
+  - [Open Source Society University](https://github.com/ossu/computer-science) contains references to more topics. It can be used for cherry-picking.
+
+  - If you're unsure about which resource is better for a particular topic, check on Reddit.
 
 After completing all the above steps, connect with me on [LinkedIn](https://www.linkedin.com/in/leo-hong/)😝. I will send you a congratulations message.
