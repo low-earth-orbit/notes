@@ -10,11 +10,13 @@ If you come from a non-CS background, this guide requires a basic understanding 
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
-[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the Internet. If you prefer video-based learning, I recommend Angela Yu's course on Udemy, linked below.
+[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the Internet.
+
+If you prefer video-based learning, you might consider Angela Yu’s course on Udemy, linked below. However, it is **less preferred** as it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely. While Angela includes trending concepts to make the course more appealing, this particular topic isn’t very useful.
 
 **Buy Udemy courses only when they're on sale.**
 
-_Alternatives:_
+_Alternative:_
 
 - [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
@@ -53,7 +55,7 @@ The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) c
 
 ## Cloud: AWS
 
-If you want to work as a Cloud Engineer, Cloud DevOp or Cloud MLE/DE, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
+If you want to work as a Cloud Engineer or DevOps, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
 I don't recommend skipping CCP, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
@@ -64,7 +66,7 @@ _Prerequisites:_
 
 _Alternatives:_
 
-- AWS is the most popular public cloud, followed by Azure and then GCP.
+- AWS is the most popular public cloud, followed by Azure and GCP.
 
 ## Leetcode
 
@@ -84,7 +86,7 @@ Recommended books to read for leisure:
 - [Designing Data-Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 
-## Additional Resources
+## Missing Theory for Non-CS People
 
 - After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in any missing theory:
 
@@ -105,4 +107,28 @@ Recommended books to read for leisure:
 
   - If you're unsure about which resource is better for a particular topic, check on Reddit.
 
-After completing all the above steps, connect with me on [LinkedIn](https://www.linkedin.com/in/leo-hong/)😝. I will send you a congratulations message.
+## Typical Study Plan and Time Management
+
+### Hands-on Coding
+
+- CS50: 150 hours
+- FullStack Open: 300 hours
+- React: 300 hours
+- Node: 300 hours
+- Tools (Git, Command Line, Agile): 50 hours
+- AWS: 300 hours (2 associate-level certificates)
+
+Total: 1400 hours
+
+### Theory
+
+- Missing foundation courses: 900 hours (150 hours x 6 courses)
+
+Total: 900 hours
+
+### Job hunting
+
+- LeetCode / System Design / Behavioral Interviews: 1000 hours
+- Building your portfolio / Side projects: 1000 hours
+
+Total: 2000 hours
