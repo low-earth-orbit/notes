@@ -4,15 +4,15 @@ This is a study guide to those interested in pursuing a career in full-stack web
 
 If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
-If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science).
+If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([course material](https://cs50.harvard.edu/x/) without using edX).
 
 ## Foundation
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
-[Full Stack open](https://fullstackopen.com/) is the best comprehensive introductory course to web development available on the Internet.
+[Full Stack open](https://fullstackopen.com/en/) is the best comprehensive introductory course to web development available on the Internet.
 
-If you prefer video-based learning, you might consider Angela Yu’s course on Udemy, linked below. However, it is **less preferred** as it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely. While Angela includes trending concepts to make the course more appealing, this particular topic isn’t very useful.
+If you prefer video-based learning, you might consider Angela Yu’s course on Udemy, linked below. However, it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely as this particular topic isn’t very useful.
 
 **Buy Udemy courses only when they're on sale.**
 
@@ -20,27 +20,26 @@ _Alternative:_
 
 - [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-## React
+## Frontend / React
 
 React is the most popular front-end framework. [This](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) is the best React course available.
 
-_Alternatives:_
+Some companies use other frameworks such as `Angular` and `Vue.js`. However, I do not recommend frontend frameworks other than React.
 
-- Some companies use other frameworks such as Angular and Vue.js.
-
-## NodeJS
+## Backend / Node.js
 
 [This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is the best resource for learning Node/Express.
 
-_Optional:_
+_Alternatives:_
 
-- Some companies use Java Spring, C# .NET, Python Flask/Django, Ruby on Rails for back-end development.
+- Some companies use `Java Spring Boot`, `C# .NET Core`, `Python Django/Flask/FastAPI`, `Ruby on Rails`, `PHP Laravel` for back-end development.
+- I'd recommend `Java Spring Boot` as the close second to `Node.js`.
 
 ## Tools
 
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) is a good place. It may cover a wider range of topics than you need, but Git and CLI are musts.
+Required: Git, basic command line/Shell, Visual Studio Code are musts.
 
-Additionally, I recommend the following:
+Additionally, I recommend familiarize with the following:
 
 - React component library (e.g. MUI)
 - OpenAPI Specification
@@ -55,9 +54,9 @@ The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) c
 
 ## Cloud: AWS
 
-If you want to work as a Cloud Engineer or DevOps, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
+If you want to work in infrastructure or DevOps, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
-I don't recommend skipping CCP, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
+I don't recommend skipping Certified Cloud Practitioner, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
 _Prerequisites:_
 
@@ -72,7 +71,7 @@ _Alternatives:_
 
 I recommend starting with a curated list of questions - [Grind75](https://www.techinterviewhandbook.org/grind75). There is a decreasing marginal return with the number of problems solved. If you don't know the theory, take algorithm courses that cover relevant topics.
 
-_Prerequisites:_
+_Prerequisite:_
 
 - Data structures and algorithms
 
@@ -107,28 +106,29 @@ Recommended books to read for leisure:
 
   - If you're unsure about which resource is better for a particular topic, check on Reddit.
 
-## Typical Study Plan and Time Management
+## Study Plan
 
-### Hands-on Coding
+### Learn
 
-- CS50: 150 hours
-- FullStack Open: 300 hours
+- CS50x: 150 hours
+- Full Stack open: 300 hours
 - React: 300 hours
 - Node: 300 hours
 - Tools (Git, Command Line, Agile): 50 hours
+
+Total: 1100 hours
+
+### Expand
+
 - AWS: 300 hours (2 associate-level certificates)
-
-Total: 1400 hours
-
-### Theory
-
 - Missing foundation courses: 900 hours (150 hours x 6 courses)
+- Recommended books: 100 hours
 
-Total: 900 hours
+Total: 1300 hours
 
-### Job hunting
+### Get ready
 
-- LeetCode / System Design / Behavioral Interviews: 1000 hours
-- Building your portfolio / Side projects: 1000 hours
+- Practice for interviews - LeetCode / system design / behavioural interviews: 1000 hours
+- Build your portfolio / side projects: 1000 hours
 
 Total: 2000 hours
