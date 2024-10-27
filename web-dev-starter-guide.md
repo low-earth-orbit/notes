@@ -4,7 +4,7 @@ This is a study guide to those interested in pursuing a career in full-stack web
 
 If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
-If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([course material](https://cs50.harvard.edu/x/) without using edX).
+If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing CS50x ([course material](https://cs50.harvard.edu/x/) without registering edX).
 
 ## Foundation
 
@@ -24,7 +24,7 @@ _Alternative:_
 
 React is the most popular front-end framework. [This](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) is the best React course available.
 
-Some companies use other frameworks such as `Angular` and `Vue.js`. However, I do not recommend frontend frameworks other than React.
+Some companies use other frameworks. However, I do not recommend frontend frameworks other than React.
 
 ## Backend / Node.js
 
@@ -37,14 +37,19 @@ _Alternatives:_
 
 ## Tools
 
-Required: Git, basic command line/Shell, Visual Studio Code are musts.
+Required:
+
+- Git
+- Command line basics
+- Visual Studio Code.
 
 Additionally, I recommend familiarize with the following:
 
-- React component library (e.g. MUI)
-- OpenAPI Specification
-- Semantic Versioning
-- Figma
+- React component library (e.g. [MUI](https://mui.com/))
+- API client ([Bruno](https://www.usebruno.com/), open source alternative to Postman)
+- [OpenAPI Specification](https://swagger.io/specification/)
+- [Semantic Versioning](https://semver.org/)
+- [Figma](https://www.figma.com/)
 
 ## Agile
 
