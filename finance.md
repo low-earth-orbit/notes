@@ -1,5 +1,15 @@
 # finance-notes
 
+## Equity Risk Premium
+
+- [Equity Risk Premiums (ERP): Determinants, Estimation and Implications - The 2023 Edition](https://ssrn.com/abstract=4398884)
+
+ERP estimates
+
+- [Source 1: Cited paper above](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histimpl.html)
+
+- [Source 2: Kroll](https://www.kroll.com/en/insights/publications/cost-of-capital)
+
 ## Private Equity
 
 There appears to be a private equity premium from historical data. This premium is commonly attributed to illiquidity. However, the question for individual investors is whether or not the anticipated premium outweighs the associated risks and fees.
@@ -33,10 +43,6 @@ A new paper challenges target-date fund's glide path suggested by lifecycle theo
 There is no benefit to adding corporate bond exposure to an existing stock and government bond portfolio.
 
 - [Re-Examining the Credit Premium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147005)
-
-## Equity Risk Premium
-
-- [Equity Risk Premiums (ERP): Determinants, Estimation and Implications - The 2023 Edition](https://ssrn.com/abstract=4398884)
 
 ## Home Country Bias
 
