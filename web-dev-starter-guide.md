@@ -88,20 +88,32 @@ Recommended books to read for leisure:
 - [The Software Engineer's Guidebook](https://www.amazon.ca/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - System Design Interview [Volume 1](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) [Volume 2](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Designing Data-Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+  - Companion course: MIT 6.824
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 
 ## Missing Theory for Non-CS People
 
-- After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in any missing theory:
+- After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in core theory:
 
-  - Programming (Java or Python)
-  - Databases
-  - Discrete structures / Math for CS
+  - Programming
+    - UC Berkeley CS61A (Python) _or_
+    - Harvard CS50P (Python) _or_
+    - MIT 6.092 (Java)
   - Data structures and algorithms
-  - Software engineering, including
-    - Software architecture and design
-    - Software development processes
-  - Computer networks
+    - UC Berkeley CS61B _and_ UC Berkeley CS170
+  - Databases
+    - UC Berkeley CS186
+  - Software engineering
+    - UC Berkeley CS169A
+
+- Optional:
+
+  - Math for CS (Recommended before studying algorithms)
+    - MIT 6.042J
+  - Computer networks (Important for web development)
+    - UC Berkeley CS268
+  - Computer architecture (Not directly related but good to know how computers work)
+    - UC Berkeley CS61C _or_ Stanford CS144
 
 - Useful resources:
 
