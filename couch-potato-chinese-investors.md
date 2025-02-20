@@ -84,7 +84,7 @@ Allocating a portion to international stocks, especially U.S. equities, is cruci
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20+% is scary!
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equity) is desirable. The model portfolios suggest an 18/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equity) is desirable. The model portfolios suggest an 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### 20% Stocks/80% Bonds
 
