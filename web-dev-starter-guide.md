@@ -85,7 +85,6 @@ _Prerequisite:_
 Recommended books to read for leisure:
 
 - [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
-- [The Software Engineer's Guidebook](https://www.amazon.ca/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - System Design Interview [Volume 1](https://www.amazon.ca/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) [Volume 2](https://www.amazon.ca/System-Design-Interview-Insiders-Guide/dp/1736049119/)
 - [Designing Data-Intensive Applications](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
   - Companion course: MIT 6.824

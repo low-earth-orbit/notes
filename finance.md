@@ -24,6 +24,12 @@ Gold is not a good investment.
 
 - [The Golden Dilemma](https://www.nber.org/papers/w18706)
 
+## REITs
+
+No rationale to overweight REITs in market cap based portfolio.
+
+- [Are REITs a Distinct Asset Class?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965146)
+
 ## Factor Investing
 
 This is a highly debated topic as well. Will factor premium persist into the future remains unanswered. For investing, is it practical to implement factor into a market-cap-weighted portfolio?
