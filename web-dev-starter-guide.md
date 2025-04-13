@@ -10,25 +10,21 @@ If you come from a non-CS background, this guide requires a basic understanding 
 
 To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack) to get an idea of the technologies that fall under the umbrella of web development.
 
-[Full Stack open](https://fullstackopen.com/en/) is the best comprehensive introductory course to web development available on the Internet.
+I recommend [Full Stack open](https://fullstackopen.com/en/) as the comprehensive introductory course to web development.
 
-If you prefer video-based learning, you might consider Angela Yu’s course on Udemy, linked below. However, it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely as this particular topic isn’t very useful.
+If you prefer video-based learning, you might consider [Angela Yu’s course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/), linked below. However, it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely as this particular topic isn't very useful.
 
 **Buy Udemy courses only when they're on sale.**
 
-_Alternative:_
-
-- [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-
 ## Frontend / React
 
-React is the most popular front-end framework. [This](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) is the best React course available.
+React is the most popular front-end framework. I recommend [This Udemy course for React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 Some companies use other frameworks. However, I do not recommend frontend frameworks other than React.
 
 ## Backend / Node.js
 
-[This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is the best resource for learning Node/Express.
+[This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is a good resource for learning Node/Express.
 
 _Alternatives:_
 
@@ -41,7 +37,7 @@ Required:
 
 - Git
 - Command line basics
-- Visual Studio Code.
+- Visual Studio Code
 
 Additionally, I recommend familiarize with the following:
 
@@ -49,7 +45,6 @@ Additionally, I recommend familiarize with the following:
 - API client ([Bruno](https://www.usebruno.com/), open source alternative to Postman)
 - [OpenAPI Specification](https://swagger.io/specification/)
 - [Semantic Versioning](https://semver.org/)
-- [Figma](https://www.figma.com/)
 
 ## Agile
 
@@ -109,10 +104,11 @@ Recommended books to read for leisure:
 
   - Math for CS (Recommended before studying algorithms)
     - MIT 6.042J
-  - Computer networks (Important for web development)
+  - Computer networks
     - UC Berkeley CS268
-  - Computer architecture (Not directly related but good to know how computers work)
+  - Computer architecture
     - UC Berkeley CS61C _or_ Stanford CS144
+    - In a typical CS undergraduate curriculum, Operating System and Systems Programming are included; however, I did not find they're particularly useful for web development. I think the non-programming part of Computer Architecture course would still provide a good background in hardware and operating systems side of things.
 
 - Useful resources:
 

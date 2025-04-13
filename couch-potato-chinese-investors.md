@@ -2,6 +2,8 @@
 
 In Canada, the Canadian Couch Potato offer great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
 
+IF YOU HAPPEN TO READ THIS - THIS NOTE IS ABSOLUTELY NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
+
 **For the average person, a low-cost, indexed, strictly passive, well-diversified portfolio consisting of bonds and stocks is the best way to invest money.**
 
 Here are a few important points:
@@ -10,7 +12,7 @@ Here are a few important points:
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor returns, discovered through backtesting and data mining, have historically existed, however, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; I doubt it would be meaningful for average person to take a bet on their persistency at a price of deviating from the cap-weighted version (idiosyncratic risk) and higher fees.
+- Factor returns, discovered through backtesting and data mining, have historically existed, however, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; I doubt it would be meaningful for average person to take a bet on their persistency at a price of deviating from the cap-weighted version and higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
@@ -84,7 +86,7 @@ Allocating a portion to international stocks, especially U.S. equities, is cruci
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20+% is scary!
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equity) is desirable. The model portfolios suggest an 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equities) is desirable. The model portfolios suggest an 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### 20% Stocks/80% Bonds
 
