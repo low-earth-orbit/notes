@@ -85,7 +85,7 @@ Recommended books to read for leisure:
   - Companion course: MIT 6.824
 - [Behavioral interviews for Software Engineers](https://www.amazon.ca/Behavioral-Interviews-Software-Engineers-Strategies/dp/B0C1JFQYCR/)
 
-## Missing Theory for Non-CS People
+## Missing Theory
 
 - After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in core theory:
 
@@ -94,53 +94,23 @@ Recommended books to read for leisure:
     - Harvard CS50P (Python) _or_
     - MIT 6.092 (Java)
   - Data structures and algorithms
-    - UC Berkeley CS61B _and_ UC Berkeley CS170
+    - UC Berkeley CS61B & UC Berkeley CS170
   - Databases
     - UC Berkeley CS186
   - Software engineering
-    - UC Berkeley CS169A
+    - UC Berkeley CS169
 
 - Optional:
 
   - Math for CS (Recommended before studying algorithms)
     - MIT 6.042J
   - Computer networks
-    - UC Berkeley CS268
+    - Stanford CS144
   - Computer architecture
-    - UC Berkeley CS61C _or_ Stanford CS144
-    - In a typical CS undergraduate curriculum, Operating System and Systems Programming are included; however, I did not find they're particularly useful for web development. I think the non-programming part of Computer Architecture course would still provide a good background in hardware and operating systems side of things.
+    - UC Berkeley CS61C
 
-- Useful resources:
+- Additional resources:
 
   - [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program.
 
-  - [Open Source Society University](https://github.com/ossu/computer-science) contains references to more topics. It can be used for cherry-picking.
-
-  - If you're unsure about which resource is better for a particular topic, check on Reddit.
-
-## Study Plan
-
-### Learn
-
-- CS50x: 150 hours
-- Full Stack open: 300 hours
-- React: 300 hours
-- Node: 300 hours
-- Tools (Git, Command Line, Agile): 50 hours
-
-Total: 1100 hours
-
-### Expand
-
-- AWS: 300 hours (2 associate-level certificates)
-- Missing foundation courses: 900 hours (150 hours x 6 courses)
-- Recommended books: 100 hours
-
-Total: 1300 hours
-
-### Get ready
-
-- Practice for interviews - LeetCode / system design / behavioural interviews: 1000 hours
-- Build your portfolio / side projects: 1000 hours
-
-Total: 2000 hours
+  - [CS DIY](https://csdiy.wiki/en/) & [Open Source Society University](https://github.com/ossu/computer-science) contain references to more topics. It can be used for cherry-picking.
