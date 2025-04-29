@@ -1,8 +1,8 @@
 # Chinese Couch Potato Investing
 
-In Canada, the Canadian Couch Potato offer great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
+In Canada, the Canadian Couch Potato offers great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
 
-IF YOU HAPPEN TO READ THIS - THIS NOTE IS ABSOLUTELY NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
+PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
 
 **For the average person, a low-cost, indexed, strictly passive, well-diversified portfolio consisting of bonds and stocks is the best way to invest money.**
 
@@ -12,13 +12,13 @@ Here are a few important points:
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor returns, discovered through backtesting and data mining, have historically existed, however, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; I doubt it would be meaningful for average person to take a bet on their persistency at a price of deviating from the cap-weighted version and higher fees.
+- Factor returns, discovered through backtesting and data mining, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; I doubt it would be meaningful for the average person to take a bet on their persistence at a price of deviating from the cap-weighted version and higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
-- While day trading and cryptocurrency, similar to gambling in casinos, open mentioned in social media, they're not good investments.
+- Day trading and cryptocurrency, while frequently promoted on social media, are more akin to gambling in casinos than legitimate investment strategies - they're not good investments.
 
-- Unfortunately, if not "day trading", many Chinese investors invest in individual stocks or sector funds, driven by market sentiment. This approach often leads to below-market returns.
+- Unfortunately, if not "day trading," many investors invest in individual stocks or sector funds, driven by market sentiment. This approach often leads to below-market returns.
 
 ## Available Asset Classes
 
@@ -71,7 +71,7 @@ The following low-cost index funds that are available for investors in mainland 
 | ----------------------- | ------------------ | ------ |
 | China Bond Market       | 易方达中债新综指 A | 161119 |
 | A Shares                | 易方达中证 800ETF  | 515810 |
-| Hong Kong-Listed Stocks | 华夏沪港通恒生 ETF | 513660 |
+| Hong Kong-listed Stocks | 华夏沪港通恒生 ETF | 513660 |
 | U.S. Stocks             | 摩根标普 500 指数  | 017641 |
 
 Note:
@@ -86,7 +86,7 @@ Allocating a portion to international stocks, especially U.S. equities, is cruci
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20+% is scary!
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equities) is desirable. The model portfolios suggest an 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equities) is desirable. The model portfolios suggest a 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### 20% Stocks/80% Bonds
 

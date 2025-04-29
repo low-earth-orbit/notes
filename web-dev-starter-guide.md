@@ -4,7 +4,7 @@ This is a study guide to those interested in pursuing a career in full-stack web
 
 If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
-If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing CS50x ([course material](https://cs50.harvard.edu/x/) without registering edX).
+If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing CS50x ([course material](https://cs50.harvard.edu/x/) without registering on edX).
 
 ## Foundation
 
@@ -12,13 +12,13 @@ To begin, read the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 
 I recommend [Full Stack open](https://fullstackopen.com/en/) as the comprehensive introductory course to web development.
 
-If you prefer video-based learning, you might consider [Angela Yu’s course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/), linked below. However, it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely as this particular topic isn't very useful.
+If you prefer video-based learning, you might consider [Angela Yu's course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). However, it lacks coverage of CI/CD and containers. Moreover, I recommend skipping the blockchain app sections entirely as this particular topic isn't very useful.
 
 **Buy Udemy courses only when they're on sale.**
 
 ## Frontend / React
 
-React is the most popular front-end framework. I recommend [This Udemy course for React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+React is the most popular front-end framework. I recommend [Maximilian Schwarzmüller's React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 Some companies use other frameworks. However, I do not recommend frontend frameworks other than React.
 
@@ -39,7 +39,7 @@ Required:
 - Command line basics
 - Visual Studio Code
 
-Additionally, I recommend familiarize with the following:
+Additionally, I recommend familiarizing yourself with the following:
 
 - React component library (e.g. [MUI](https://mui.com/))
 - API client ([Bruno](https://www.usebruno.com/), open source alternative to Postman)
@@ -50,13 +50,13 @@ Additionally, I recommend familiarize with the following:
 
 If you haven't worked in an Agile team, it is good to know the basics of Agile. An introductory course on Agile or a Software Engineering course that includes Agile should suffice.
 
-The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a Project Manager - two-day training and easy exam; Alternatively, consider the [PMP](https://www.pmi.org/certifications) by PMI if you're eligible. For other roles, these certification don't carry much value.
+The [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified) certification is nice-to-have if you want to become a Project Manager - two-day training and easy exam; Alternatively, consider the [PMP](https://www.pmi.org/certifications) by PMI if you're eligible. For other roles, these certifications don't carry much value.
 
 ## Cloud: AWS
 
 If you want to work in infrastructure or DevOps, get an **associate-level** certificate; For other roles, it is nice-to-have but not necessary. AWS has a doc on [certification path](https://aws.amazon.com/certification/). For most people following this guide, I recommend the Application Architect path. Resources I recommend are Stephane Maarek's courses and Tutorials Dojo (Jon Bonso)'s practice exams.
 
-I don't recommend skipping Certified Cloud Practitioner, unless you are already familiar with cloud infrastructure. The pro-level and specialty level certs are a lot harder and may not be worth attempting in terms of time efficiency.
+I don't recommend skipping Certified Cloud Practitioner, unless you are already familiar with cloud infrastructure. The pro-level and specialty-level certs are a lot harder and may not be worth attempting in terms of time efficiency.
 
 _Prerequisites:_
 
