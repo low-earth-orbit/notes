@@ -4,7 +4,7 @@ This is a study guide to those interested in pursuing a career in full-stack web
 
 If you're a computer science student, the ideal time to start following this guide is right after having a foundation in programming, typically after completing your first semester of study.
 
-If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing CS50x ([course material](https://cs50.harvard.edu/x/) without registering on edX).
+If you come from a non-CS background, this guide requires a basic understanding of computer science, such as completing [CS50x](https://cs50.harvard.edu/x/), or a bit more focused introduction, [Programming](https://www.coursera.org/specializations/python) + [Algorithms](https://www.coursera.org/specializations/algorithms).
 
 ## Foundation
 
@@ -60,8 +60,7 @@ I don't recommend skipping Certified Cloud Practitioner, unless you are already 
 
 _Prerequisites:_
 
-- Computer Networks
-- Software Architecture and Design
+- Databases, Computer Networks, Computer Architecture
 
 _Alternatives:_
 
@@ -87,27 +86,29 @@ Recommended books to read for leisure:
 
 ## Missing Theory
 
-- After reflecting on what I learned during my CS degree, I recommend the following topics for non-CS background people to fill in core theory:
+- After reflecting on what I learned during my CS degree, _at a minimum_, I recommend the following topics for non-CS background people to fill in core theory:
 
   - Programming
-    - UC Berkeley CS61A (Python) _or_
+    - UCB CS61A (Python) _or_
     - Harvard CS50P (Python) _or_
     - MIT 6.092 (Java)
   - Data structures and algorithms
-    - UC Berkeley CS61B & UC Berkeley CS170
+    - UCB CS61B & UCB CS170
   - Databases
-    - UC Berkeley CS186
+    - UCB CS186
   - Software engineering
-    - UC Berkeley CS169
+    - UCB CS169
 
-- Optional:
+- Also recommended:
 
-  - Math for CS (Recommended before studying algorithms)
-    - MIT 6.042J
+  - [Missing Semester](https://missing.csail.mit.edu/)
+  - Math for CS
+    - MIT 6.042J _or_
+    - UCB CS70
   - Computer networks
-    - Stanford CS144
+    - _Computer Networking: A Top-Down Approach_ [Online Video Series](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
   - Computer architecture
-    - UC Berkeley CS61C
+    - UCB CS61C
 
 - Additional resources:
 
