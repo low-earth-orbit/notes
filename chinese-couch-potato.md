@@ -1,6 +1,6 @@
 # Chinese Couch Potato Investing
 
-In Canada, the Canadian Couch Potato offers great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
+In Canada, the [Canadian Couch Potato website](https://canadiancouchpotato.com/) offers great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
 
 PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
 
@@ -8,11 +8,11 @@ PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. 
 
 Here are a few important points:
 
-- Periodic contributions and buy-and-hold strategies help overcome behavioral biases that often lead to suboptimal outcomes.
+- Periodic contributions and buy-and-hold strategies help overcome behavioural biases that often lead to suboptimal outcomes.
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor returns, discovered through backtesting and data mining, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; I doubt it would be meaningful for the average person to take a bet on their persistence at a price of deviating from the cap-weighted version and higher fees.
+- Factor returns, discovered through backtesting and data mining, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; It wouldn't be meaningful for the average person to take a bet on their persistence at a price of deviating from the cap-weighted version and higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
@@ -27,19 +27,19 @@ The meaningful and accessible asset classes for investors in mainland China, ava
 - Domestic Bonds
   - Various segments available, including government, investment grade, high-yield and convertible.
 - A Shares (Shanghai & Shenzhen Stock Exchanges)
-  - SCI300 index (沪深 300), a large-cap index capturing 70% of capitalization.
-  - SCI800 index (中证 800), large and mid caps accounting for 95% capitalization.
+  - CSI 300 index (沪深300指数), a large-cap index capturing 70% of capitalization.
+  - CSI 800 index (中证800指数), large and mid caps accounting for 95% capitalization.
 - Hong Kong-listed Stocks
   - Hang Seng Index (恒生指数), a large-cap index for stocks listed in the Hong Kong Stock Exchange representing 60% capitalization.
   - Hang Seng China Enterprises Index (恒生中国企业指数), comprises companies with close business ties to mainland China.
 - U.S. Stocks
-  - Nasdaq 100 and S&P500 are available as QDII funds.
+  - Nasdaq 100 and S&P 500 are available as QDII funds.
 
 ## Capital Market Assumptions
 
 ### Return and Volatility Assumptions
 
-| Asset Class       | Nominal Return | Volatility (Standard Deviation) |
+| Asset class       | Expected return | Volatility (standard deviation, 10-y historical) |
 | ----------------- | -------------: | ------------------------------: |
 | China Bond Market |             3% |                           1.79% |
 | A Shares          |             8% |                          21.76% |
@@ -53,7 +53,7 @@ Note:
    - China Bond Market: Factsheet for S&P China Bond Index
    - China A Shares: Factsheet for MSCI China A Onshore Index
    - HK-listed Stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
-   - U.S. Stocks: Factsheet for S&P500 (in CNY)
+   - U.S. Stocks: Factsheet for S&P 500 (in CNY)
 
 ### Correlations
 
@@ -70,62 +70,71 @@ The following low-cost index funds that are available for investors in mainland 
 | Asset Class             | Fund Name          | Ticker |
 | ----------------------- | ------------------ | ------ |
 | China Bond Market       | 易方达中债新综指 A | 161119 |
-| A Shares                | 易方达中证 800ETF  | 515810 |
+| A Shares                | 易方达中证800ETF  | 515810 |
 | Hong Kong-listed Stocks | 华夏沪港通恒生 ETF | 513660 |
-| U.S. Stocks             | 摩根标普 500 指数  | 017641 |
+| U.S. Stocks             | 摩根标普500指数  | 017641 |
 
 Note:
 
-1. These are examples; numerous alternatives exist.
+1. These are examples; many alternatives exist.
 
 ## Model Portfolios
 
-The model portfolios are derived from running Markowitz portfolio optimization, with some subjective adjustments.
+The model portfolios are derived from running portfolio optimization (maximum Sharpe, minimum variance), with some subjective adjustments.
 
 Allocating a portion to international stocks, especially U.S. equities, is crucial for diversification and volatility reduction.
 
-Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20+% is scary!
+Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
 
 Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equities) is desirable. The model portfolios suggest a 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
-### 20% Stocks/80% Bonds
+### 20% Stocks/80% Bonds "Income"
 
 ```mermaid
 pie
 "China Bond Market" : 80
-"SCI800" : 3
+"CSI 800": 3
 "Hang Seng Index" : 3
-"S&P500" : 14
+"S&P 500" : 14
 ```
 
-### 40% Stocks/60% Bonds
+### 40% Stocks/60% Bonds "Conservative"
 
 ```mermaid
 pie
 "China Bond Market" : 60
-"SCI800" : 6
+"CSI 800" : 6
 "Hang Seng Index" : 6
-"S&P500" : 28
+"S&P 500" : 28
 ```
 
-### 60% Stocks/40% Bonds
+### 60% Stocks/40% Bonds "Balanced"
 
 ```mermaid
 pie
 "China Bond Market" : 40
-"SCI800" : 9
+"CSI 800" : 9
 "Hang Seng Index" : 9
-"S&P500" : 42
+"S&P 500" : 42
 ```
 
-### 80% Stocks/20% Bonds
+### 80% Stocks/20% Bonds "Growth"
 
 ```mermaid
 pie
 "China Bond Market" : 20
-"SCI800" : 12
+"CSI 800" : 12
 "Hang Seng Index" : 12
-"S&P500" : 56
+"S&P 500" : 56
 ```
 
-[^1]: Bank deposits and direct real estate investing are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. I wouldn't recommend private funds (私募基金) nor private equities (私募股权).
+### 100% Stocks "Aggressive"
+
+```mermaid
+pie
+"CSI 800" : 15
+"Hang Seng Index" : 15
+"S&P 500" : 70
+```
+
+[^1]: Bank term deposits (定期存款) and direct real estate investing (投资房) are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. I wouldn't recommend any of these: privately offered funds (私募基金), segregated funds (储蓄型 / 投资型保险), nor private equities (私募股权 / 信托).
