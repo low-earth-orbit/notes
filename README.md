@@ -9,3 +9,6 @@
 - [Example Canadian Couch Potato Portfolios](./ccp-portfolios.md)
 
 - [Couch Potato for Chinese Investors](./chinese-couch-potato.md)
+
+- [Rent vs Buy Calculator](https://rent-vs-buy.leohong.dev/)
+

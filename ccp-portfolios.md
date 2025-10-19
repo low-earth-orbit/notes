@@ -2,10 +2,6 @@
 
 The following are examples.
 
-## Cash equivalents
-
-CBIL
-
 ## Bonds
 
 ZAG
@@ -14,9 +10,14 @@ ZAG
 
 ### One Fund Solution
 
-VEQT
+Choose from VEQT or XEQT. I prefer 30% to Canadian equities. XEQT has lower MER.
 
-### 2-Fund Portfolio
+```mermaid
+pie
+"VEQT or XEQT" : 100
+```
+
+### 2-Fund Solution
 
 ```mermaid
 pie
@@ -24,25 +25,13 @@ pie
 "XAW" : 70
 ```
 
-### 3-Fund Portfolio
+### 3-Fund Solution
 
-For ex-Canada allocation, either follow market cap weights or fixed weights. This 3-Fund Portfolio does not include emerging markets equities.
+This 3-Fund Solution does not include emerging markets equities - however, I think it's okay.
 
 ```mermaid
 pie
 "XIC" : 30
 "XUU" : 45
 "XEF" : 25
-```
-
-### 4-Fund Portfolio
-
-For ex-Canada allocation, either follow market cap weights or fixed weights. The 4-Fund Portfolio includes emerging markets equities.
-
-```mermaid
-pie
-"XIC" : 30
-"XUU" : 42
-"XEF" : 20
-"XEC" : 8
 ```
