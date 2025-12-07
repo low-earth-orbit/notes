@@ -4,7 +4,7 @@ In Canada, the [Canadian Couch Potato website](https://canadiancouchpotato.com/)
 
 PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
 
-**For the average person, a low-cost, indexed, strictly passive, well-diversified portfolio consisting of bonds and stocks is the best way to invest money.**
+**For the average person, a low-cost, indexed, strictly passive, well-diversified investment portfolio consisting of bonds and stocks is the best place to invest money.**
 
 Here are a few important points:
 
@@ -12,7 +12,7 @@ Here are a few important points:
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor returns, discovered through backtesting and data mining, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; It wouldn't be meaningful for the average person to take a bet on their persistence at a price of deviating from the cap-weighted version and higher fees.
+- Factor returns, discovered through backtesting, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication; It wouldn't be meaningful for the average person to take a bet on their persistence at a price of deviating from the cap-weighted version and higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
@@ -27,41 +27,47 @@ The meaningful and accessible asset classes for investors in mainland China, ava
 - Domestic Bonds
   - Various segments available, including government, investment grade, high-yield and convertible.
 - A Shares (Shanghai & Shenzhen Stock Exchanges)
-  - CSI 300 index (沪深300指数), a large-cap index capturing 70% of capitalization.
-  - CSI 800 index (中证800指数), large and mid caps accounting for 95% capitalization.
+  - CSI 300 index (沪深 300 指数), a large-cap index capturing 70% of capitalization.
+  - CSI 800 index (中证 800 指数), large and mid caps accounting for 95% capitalization.
 - Hong Kong-listed Stocks
   - Hang Seng Index (恒生指数), a large-cap index for stocks listed in the Hong Kong Stock Exchange representing 60% capitalization.
   - Hang Seng China Enterprises Index (恒生中国企业指数), comprises companies with close business ties to mainland China.
-- U.S. Stocks
+- U.S. Large Stocks
   - Nasdaq 100 and S&P 500 are available as QDII funds.
 
 ## Capital Market Assumptions
 
 ### Return and Volatility Assumptions
 
-| Asset class       | Expected return | Volatility (standard deviation, 10-y historical) |
-| ----------------- | -------------: | ------------------------------: |
-| China Bond Market |             3% |                           1.79% |
-| A Shares          |             8% |                          21.76% |
-| HK-listed Stocks  |             8% |                          19.30% |
-| U.S. Stocks       |             8% |                          14.46% |
+| Asset class       | Expected return (author) | Annualized Volatility (10-y historical) | Expected return (JPM) | Annualized Volatility (JPM) |
+| ----------------- | -----------------------: | --------------------------------------: | --------------------: | --------------------------: |
+| China Bond Market |                       3% |                                   1.79% |                  2.7% |                       2.75% |
+| A Shares          |                       8% |                                  21.76% |                  5.5% |                      27.27% |
+| HK-listed Stocks  |                       8% |                                  19.30% |                  5.7% |                      22.93% |
+| U.S. Large Stocks |                       8% |                                  14.46% |                  4.5% |                      15.97% |
 
 Note:
 
-1. The returns are nominal, before taxes and fees.
-2. Volatility sources are as follows:
+1. The returns are compound, nominal, before taxes and fees. Subtract 1% for fees and taxes to get an estimate of net returns.
+2. JPM data are from [2026 Long-Term Capital Market Assumptions](https://am.jpmorgan.com/ca/en/asset-management/adv/insights/portfolio-insights/ltcma/).
+3. 10-y historical volatilities are from:
    - China Bond Market: Factsheet for S&P China Bond Index
    - China A Shares: Factsheet for MSCI China A Onshore Index
    - HK-listed Stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
-   - U.S. Stocks: Factsheet for S&P 500 (in CNY)
+   - U.S. Large Stocks: Factsheet for S&P 500 (in CNY)
 
 ### Correlations
 
-| Asset Class      | A Shares | HK-listed Stocks | U.S. Stocks |
-| ---------------- | -------: | ---------------: | ----------: |
-| A Shares         |        1 |             0.68 |        0.44 |
-| HK-listed Stocks |     0.68 |                1 |        0.49 |
-| U.S. Stocks      |     0.44 |             0.49 |           1 |
+| Asset Class       | A Shares | HK-listed Stocks | U.S. Large Stocks |
+| ----------------- | -------: | ---------------: | ----------------: |
+| A Shares          |        1 |             0.68 |              0.27 |
+| HK-listed Stocks  |     0.68 |                1 |              0.41 |
+| U.S. Large Stocks |     0.27 |             0.41 |                 1 |
+
+Note:
+
+1. Correlations are from [2026 Long-Term Capital Market Assumptions](https://am.jpmorgan.com/ca/en/asset-management/adv/insights/portfolio-insights/ltcma/).
+2. Bonds are excluded, assuming 0 correlation with stocks.
 
 ## Representative Funds
 
@@ -70,9 +76,9 @@ The following low-cost index funds that are available for investors in mainland 
 | Asset Class             | Fund Name          | Ticker |
 | ----------------------- | ------------------ | ------ |
 | China Bond Market       | 易方达中债新综指 A | 161119 |
-| A Shares                | 易方达中证800ETF  | 515810 |
+| A Shares                | 易方达中证 800ETF  | 515810 |
 | Hong Kong-listed Stocks | 华夏沪港通恒生 ETF | 513660 |
-| U.S. Stocks             | 摩根标普500指数  | 017641 |
+| U.S. Large Stocks       | 摩根标普 500 指数  | 017641 |
 
 Note:
 
