@@ -10,24 +10,19 @@ ZAG
 
 ### One Fund Solution
 
-Choose from VEQT or XEQT. I prefer 30% to Canadian equities. XEQT has lower MER.
-
-```mermaid
-pie
-"VEQT or XEQT" : 100
-```
+VEQT
 
 ### 2-Fund Solution
 
 ```mermaid
 pie
 "XIC" : 30
-"XAW" : 70
+"VXC" : 70
 ```
 
 ### 3-Fund Solution
 
-This 3-Fund Solution does not include emerging markets equities - however, I think it's okay.
+This does not include emerging markets equities - however, I think it's okay.
 
 ```mermaid
 pie
