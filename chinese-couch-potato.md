@@ -6,7 +6,7 @@ PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. 
 
 **For the average person, a low-cost, indexed, strictly passive, well-diversified investment portfolio consisting of bonds and stocks is the best place to invest money.**
 
-Here are a few important points:
+Key takeaways:
 
 - Periodic contributions and buy-and-hold strategies help overcome behavioural biases that often lead to suboptimal outcomes.
 
