@@ -1,10 +1,10 @@
 # Chinese Couch Potato Investing
 
-In Canada, the [Canadian Couch Potato website](https://canadiancouchpotato.com/) offers great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
+In Canada, [Canadian Couch Potato](https://canadiancouchpotato.com/) offers great guidance for low-cost, passive, index investing. This note introduces example "couch potato" portfolios for Chinese investors.
 
 PLEASE NOTE: THIS DOCUMENT IS NOT FINANCIAL ADVICE. INDIVIDUAL SITUATIONS VARY. USE AT YOUR OWN RISK.
 
-**For the average person, a low-cost, indexed, strictly passive, well-diversified investment portfolio consisting of bonds and stocks is the best place to invest money.**
+**For the average person, a well-diversified, low-cost, broad-market-indexed, strictly passive investment portfolio consisting of bonds and stocks is the best place to invest money.**
 
 Key takeaways:
 
@@ -12,7 +12,7 @@ Key takeaways:
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor returns, discovered through backtesting, have historically existed. However, emerging evidence indicates that these excess returns tend to _diminish_ following the discovery's publication. It wouldn't be meaningful for the average person to take a bet on their persistence at the price of deviating from the cap-weighted version and incurring higher fees.
+- Factor premiums, discovered through backtesting, have historically existed. However, its persistency is uncertain. It wouldn't be meaningful for the average person to take a bet at the price of deviating from the cap-weighted version and incurring higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
@@ -27,30 +27,30 @@ The meaningful and accessible asset classes for investors in mainland China, ava
 - Domestic Bonds
   - Various segments available, including government, investment grade, high-yield and convertible.
 - A Shares (Shanghai & Shenzhen Stock Exchanges)
-  - CSI 300 index (沪深 300 指数), a large-cap index capturing 70% of capitalization.
-  - CSI 800 index (中证 800 指数), large and mid caps accounting for 95% capitalization.
+  - CSI 300 index (沪深 300 指数), a large-cap index.
+  - CSI 800 index (中证 800 指数), large and mid caps.
 - Hong Kong-listed Stocks
   - Hang Seng Index (恒生指数), a large-cap index for stocks listed in the Hong Kong Stock Exchange representing 60% capitalization.
   - Hang Seng China Enterprises Index (恒生中国企业指数), comprises companies with close business ties to mainland China.
 - U.S. Large Stocks
   - Nasdaq 100 and S&P 500 are available as QDII funds.
+- Other international markets (e.g., Europe, Japan) are available but with limited options and high fees.
 
 ## Capital Market Assumptions
 
 ### Return and Volatility Assumptions
 
-| Asset class       | Expected return (author) | Annualized Volatility (10-y historical) | Expected return (JPM) | Annualized Volatility (JPM) |
-| ----------------- | -----------------------: | --------------------------------------: | --------------------: | --------------------------: |
-| China Bond Market |                       3% |                                   1.79% |                  2.7% |                       2.75% |
-| A Shares          |                       8% |                                  21.76% |                  5.5% |                      27.27% |
-| HK-listed Stocks  |                       8% |                                  19.30% |                  5.7% |                      22.93% |
-| U.S. Large Stocks |                       8% |                                  14.46% |                  4.5% |                      15.97% |
+| Asset class       | Expected return (author's estimate) | Annualized Volatility (10-y historical) |
+| ----------------- | ----------------------------------: | --------------------------------------: |
+| China Bond Market |                                  3% |                                   1.79% |
+| A Shares          |                                  8% |                                  21.76% |
+| HK-listed Stocks  |                                  8% |                                  19.30% |
+| U.S. Large Stocks |                                  8% |                                  14.46% |
 
 Note:
 
 1. Expected returns above are compound, nominal, before taxes and fees.
-2. JPM data are from [2026 Long-Term Capital Market Assumptions](https://am.jpmorgan.com/ca/en/asset-management/adv/insights/portfolio-insights/ltcma/).
-3. 10-y historical volatilities are from:
+2. 10-y historical volatilities are from:
    - China Bond Market: Factsheet for S&P China Bond Index
    - China A Shares: Factsheet for MSCI China A Onshore Index
    - HK-listed Stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
@@ -60,18 +60,18 @@ Note:
 
 | Asset Class       | A Shares | HK-listed Stocks | U.S. Large Stocks |
 | ----------------- | -------: | ---------------: | ----------------: |
-| A Shares          |        1 |             0.68 |              0.27 |
-| HK-listed Stocks  |     0.68 |                1 |              0.41 |
-| U.S. Large Stocks |     0.27 |             0.41 |                 1 |
+| A Shares          |        1 |             0.68 |              0.44 |
+| HK-listed Stocks  |     0.68 |                1 |              0.49 |
+| U.S. Large Stocks |     0.44 |             0.49 |                 1 |
 
 Note:
 
-1. Correlations are from [2026 Long-Term Capital Market Assumptions](https://am.jpmorgan.com/ca/en/asset-management/adv/insights/portfolio-insights/ltcma/).
+1. Correlations are author's estimates.
 2. Bonds are excluded, assuming 0 correlation with stocks.
 
 ## Representative Funds
 
-The following low-cost index funds that are available for investors in mainland China are selected to represent these four asset classes.
+The following low-cost index funds that are available for investors are selected to represent these four asset classes.
 
 | Asset Class             | Mutual Fund Example (场外基金示例) | Ticker | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
 | ----------------------- | ---------------------------------- | ------ | ------------------------- | -------------------------------- | --------- |
@@ -92,33 +92,21 @@ Allocating a portion to international stocks, especially U.S. equities, is cruci
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international stocks (U.S. equities) is desirable. The model portfolios suggest a 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
-
-### Allocation considerations
-
-In the capital market assumptions, I provided two sets of expected returns and volatilities: my own estimates and JPM's. My estimates for expected return are valuation-neutral, which means the returns of equities across regions are expected to be similar regardless of current valuations. JPM's estimation is likely valuation-based. When the current valuation is high, asset returns are expected to be lower. Differing assumptions lead to different optimal allocations, so there is a fair bit of subjectivity here in terms of choosing the optimal allocation. In general, "10% SS / 10% HK / 80% US" produces the lowest volatility. The max-Sharpe ratio allocation varies depending on the expected return assumptions and estimated fees. If JPM's expected returns are used, the allocation tends to be more towards China:
-
-> A Shares: 42.69%
->
-> HK-listed Stocks: 6.37%
->
-> US Stocks: 50.94%
-
-Is this a good allocation? The market cap of S&P 500 is multiple times larger than A Shares. That's probably too much concentration in China equities. Therefore I adjusted it to a 15/15/70 split.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international equities is desirable. The model portfolios suggest a 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### Asset selection considerations
 
 #### Other international markets
 
-Ideally, diversifying into other international markets (e.g., Europe, Japan) is beneficial. However, the available funds for Chinese investors are limited, and the fees are too stiff and may outweigh the benefits.
+Ideally, diversifying into other international markets (e.g., Europe, Japan) is beneficial. Unfortunately, as of now the available QDII funds for Chinese investors are limited, and the fees are too stiff and may outweigh the benefits. If more options become available in the future, it would be worth considering adding them to the portfolio, to reduce over-concentration in the U.S. market. One particular fund I noted is 006282 摩根欧洲指数, which tracks the MSCI Europe Index.
 
 #### Gold
 
-I did not include Gold in the model portfolios. It might make sense to allocate a small portion in replacement of bonds for those who are looking for uncorrelated assets. However, the volatility of gold price is high, it's generally better to hold bonds than gold.
+I did not include Gold in the model portfolios. IMO, the volatility of gold price is high, it's generally better to hold bonds than gold. Nevertheless, it might make sense to allocate a small portion (up to 10%) in replacement of bonds for those who are looking for further diversification.
 
 #### Commodities
 
-Similar to gold, the volatility is high and the expected return is low.
+Similar to gold, the volatility is high and the expected return is low. Lack of good index funds is another reason for not including commodities in the model portfolios.
 
 #### REITs
 
@@ -126,7 +114,9 @@ I don't consider REITs as a separate asset class. Private real estate behaves di
 
 #### Style-tilt / factor investing
 
-I don't recommend tilting towards quality, value, or any other factors. The evidence is mixed on whether factor premiums will persist in the future. For the average investor, it's better to stick with market-cap-weighted index funds. It's better to add bonds to reduce volatility than to tilt towards certain factors like dividend, low-vol.
+I don't recommend tilting towards quality, value, or any other factors. The evidence is mixed on whether factor premiums will persist in the future. For the average investor, it's better to stick with market-cap-weighted index funds. It's better to add bonds to reduce volatility than to tilt towards certain factors like dividend (红利), low-vol (低波动).
+
+Sector-tilt is also not recommended. Choosing Nasdaq 100 over S&P 500 is a bet on the tech sector, a textbook example of performance chasing & recency bias.
 
 ## Final Results
 
@@ -179,4 +169,4 @@ pie
 "S&P 500" : 70
 ```
 
-[^1]: Bank term deposits (定期存款) and direct real estate investing (投资房) are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. The problem is, you might not know what it is. I wouldn't recommend any of these: privately offered funds (私募基金), segregated funds (储蓄型 / 投资型保险), nor private equities (私募股权 / 信托).
+[^1]: Bank term deposits (定期存款) and direct real estate investing (投资房) are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. I wouldn't recommend any of these: privately offered funds (私募基金), segregated funds (储蓄型/投资型保险), nor private equities (私募股权/信托).
