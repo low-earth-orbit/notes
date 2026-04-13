@@ -60,13 +60,13 @@ Note:
 
 | Asset Class       | A Shares | HK-listed Stocks | U.S. Large Stocks |
 | ----------------- | -------: | ---------------: | ----------------: |
-| A Shares          |        1 |             0.68 |              0.44 |
-| HK-listed Stocks  |     0.68 |                1 |              0.49 |
-| U.S. Large Stocks |     0.44 |             0.49 |                 1 |
+| A Shares          |        1 |             0.65 |              0.37 |
+| HK-listed Stocks  |     0.65 |                1 |              0.56 |
+| U.S. Large Stocks |     0.37 |             0.56 |                 1 |
 
 Note:
 
-1. Correlations are author's estimates.
+1. Correlations are author's calculation from MSCI data.
 2. Bonds are excluded, assuming 0 correlation with stocks.
 
 ## Representative Funds
@@ -86,19 +86,19 @@ Note:
 
 ## Constructing Model Portfolios
 
-The model portfolios are derived from running portfolio optimization (maximum Sharpe, minimum variance), with some subjective adjustments.
+The model portfolios are derived from minimum-variance portfolio, with some subjective adjustments.
 
 Allocating a portion to international stocks, especially U.S. equities, is crucial for diversification and volatility reduction.
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 50-90% of the equity portion to international equities is desirable. The model portfolios suggest a 15/15/70 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 30-90% of the equity portion to international equities is desirable. The model portfolios suggest a 12/8/80 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### Asset selection considerations
 
 #### Other international markets
 
-Ideally, diversifying into other international markets (e.g., Europe, Japan) is beneficial. Unfortunately, as of now the available QDII funds for Chinese investors are limited, and the fees are too stiff and may outweigh the benefits. If more options become available in the future, it would be worth considering adding them to the portfolio, to reduce over-concentration in the U.S. market. One particular fund I noted is 006282 摩根欧洲指数, which tracks the MSCI Europe Index.
+Diversifying into other international markets (e.g., Europe, Japan) is beneficial. Unfortunately, as of now the available QDII funds for Chinese investors are limited, and the fees are too stiff and may outweigh the benefits. If more options become available in the future, it would be worth considering adding them to the portfolio, to reduce over-concentration in the U.S. market. One particular fund I noted is 006282 摩根欧洲指数, which tracks the MSCI Europe Index.
 
 #### Gold
 
@@ -125,9 +125,9 @@ Sector-tilt is also not recommended. Choosing Nasdaq 100 over S&P 500 is a bet o
 ```mermaid
 pie
 "China Bond Market" : 80
-"CSI 800": 3
-"Hang Seng Index" : 3
-"S&P 500" : 14
+"CSI 800": 2.4
+"Hang Seng Index" : 1.6
+"S&P 500" : 16
 ```
 
 ### 40% Stocks/60% Bonds "Conservative"
@@ -135,9 +135,9 @@ pie
 ```mermaid
 pie
 "China Bond Market" : 60
-"CSI 800" : 6
-"Hang Seng Index" : 6
-"S&P 500" : 28
+"CSI 800" : 4.8
+"Hang Seng Index" : 3.2
+"S&P 500" : 32
 ```
 
 ### 60% Stocks/40% Bonds "Balanced"
@@ -145,9 +145,9 @@ pie
 ```mermaid
 pie
 "China Bond Market" : 40
-"CSI 800" : 9
-"Hang Seng Index" : 9
-"S&P 500" : 42
+"CSI 800" : 7.2
+"Hang Seng Index" : 4.8
+"S&P 500" : 48
 ```
 
 ### 80% Stocks/20% Bonds "Growth"
@@ -155,18 +155,18 @@ pie
 ```mermaid
 pie
 "China Bond Market" : 20
-"CSI 800" : 12
-"Hang Seng Index" : 12
-"S&P 500" : 56
+"CSI 800" : 9.6
+"Hang Seng Index" : 6.4
+"S&P 500" : 64
 ```
 
 ### 100% Stocks "Aggressive"
 
 ```mermaid
 pie
-"CSI 800" : 15
-"Hang Seng Index" : 15
-"S&P 500" : 70
+"CSI 800" : 12
+"Hang Seng Index" : 8
+"S&P 500" : 80
 ```
 
 [^1]: Bank term deposits (定期存款) and direct real estate investing (投资房) are "meaningful" options but they are not available as mutual funds or ETFs. Another option is banks' wealth management products (理财产品); they're not as transparent as mutual funds (公募基金) mentioned in the note. I wouldn't recommend any of these: privately offered funds (私募基金), segregated funds (储蓄型/投资型保险), nor private equities (私募股权/信托).
