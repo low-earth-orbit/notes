@@ -43,8 +43,8 @@ The meaningful and accessible asset classes for investors in mainland China, ava
 | Asset class       | Expected return (author's estimate) | Annualized Volatility (10-y historical) |
 | ----------------- | ----------------------------------: | --------------------------------------: |
 | China Bond Market |                                  3% |                                   1.79% |
-| A Shares          |                                  8% |                                  21.76% |
-| HK-listed Stocks  |                                  8% |                                  19.30% |
+| A Shares          |                                  8% |                                  20.39% |
+| HK-listed Stocks  |                                  8% |                                  21.32% |
 | U.S. Large Stocks |                                  8% |                                  14.46% |
 
 Note:
@@ -92,13 +92,13 @@ Allocating a portion to international stocks, especially U.S. equities, is cruci
 
 Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
 
-Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 30-90% of the equity portion to international equities is desirable. The model portfolios suggest a 12/8/80 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
+Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 70-90% of the equity portion to international equities is desirable. The model portfolios suggest a 12/8/80 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
 ### Asset selection considerations
 
 #### Other international markets
 
-Diversifying into other international markets (e.g., Europe, Japan) is beneficial. Unfortunately, as of now the available QDII funds for Chinese investors are limited, and the fees are too stiff and may outweigh the benefits. If more options become available in the future, it would be worth considering adding them to the portfolio, to reduce over-concentration in the U.S. market. One particular fund I noted is 006282 摩根欧洲指数, which tracks the MSCI Europe Index.
+Diversifying into other international markets (e.g., Europe, Japan) is beneficial. Unfortunately, as of now the available QDII funds for Chinese investors are limited, and the fees are too steep and may outweigh the benefits. If more options become available in the future, it would be worth considering adding them to the portfolio, to reduce over-concentration in the U.S. market. One particular fund I noted is 006282 摩根欧洲指数, which tracks the MSCI Europe Index.
 
 #### Gold
 
