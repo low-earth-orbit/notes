@@ -16,13 +16,13 @@ If you prefer video-based learning, you might consider [Angela Yu's course on Ud
 
 **Buy Udemy courses only when they're on sale.**
 
-## Frontend / React
+## Frontend: React
 
 React is the most popular front-end framework. I recommend [Maximilian Schwarzmüller's React course on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
-Some companies use other frameworks. However, I do not recommend frontend frameworks other than React.
+Some companies use other frameworks (e.g., Vue.js, Angular). However, I do not recommend frontend frameworks other than React.
 
-## Backend / Node.js
+## Backend: Node.js
 
 [This course](https://www.udemy.com/course/nodejs-the-complete-guide/), taught by the same instructor as the React course above, is a good resource for learning Node/Express.
 
@@ -45,6 +45,8 @@ Additionally, I recommend familiarizing yourself with the following:
 - API client ([Bruno](https://www.usebruno.com/), open source alternative to Postman)
 - [OpenAPI Specification](https://swagger.io/specification/)
 - [Semantic Versioning](https://semver.org/)
+- AI tools (e.g. Claude Code, ChatGPT Codex, GitHub Copilot)
+- Figma (for UI/UX design)
 
 ## Agile
 
@@ -87,7 +89,6 @@ Recommended books to read for leisure:
 ## Missing Theory
 
 - After reflecting on what I learned during my CS degree, _at a minimum_, I recommend the following topics for non-CS background people to fill in core theory:
-
   - Programming
     - UCB CS61A (Python) _or_
     - Harvard CS50P (Python) _or_
@@ -100,7 +101,6 @@ Recommended books to read for leisure:
     - UCB CS169
 
 - Also recommended:
-
   - [Missing Semester](https://missing.csail.mit.edu/)
   - Math for CS
     - MIT 6.042J _or_
@@ -111,7 +111,5 @@ Recommended books to read for leisure:
     - UCB CS61C
 
 - Additional resources:
-
   - [Teach Yourself Computer Science](https://teachyourselfcs.com/) covers the core courses in a typical Bachelor's degree program.
-
   - [CS DIY](https://csdiy.wiki/en/) & [Open Source Society University](https://github.com/ossu/computer-science) contain references to more topics. It can be used for cherry-picking.
