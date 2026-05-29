@@ -41,7 +41,7 @@ Required:
 
 Additionally, I recommend familiarizing yourself with the following:
 
-- React component library (e.g. [MUI](https://mui.com/))
+- React component library (e.g. [Mantine UI](https://mantine.dev/))
 - API client ([Bruno](https://www.usebruno.com/), open source alternative to Postman)
 - [OpenAPI Specification](https://swagger.io/specification/)
 - [Semantic Versioning](https://semver.org/)
