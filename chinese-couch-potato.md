@@ -2,6 +2,8 @@
 
 Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a great guide to low-cost, passive index investing. This note adapts the idea into example "couch potato" portfolios for investors in mainland China.
 
+_Last updated: 2026. Fund fees, returns, tax rates, and rules change over time — check the current numbers before you act._
+
 **Not financial advice.** This is my personal opinion for general education, not a recommendation for you. Your situation is different, fund details and tax rules change over time, and all the numbers here are estimates that can be wrong. Do your own research and consider a licensed adviser before investing. You invest at your own risk.
 
 **For most people, the best place to invest is a simple mix of low-cost, broad index funds — bonds and stocks — held passively.**
@@ -180,6 +182,28 @@ pie
 "Hang Seng Index" : 8
 "S&P 500" : 80
 ```
+
+## Which One Should You Pick?
+
+More stocks means higher long-run returns but bigger swings along the way. A rough guide:
+
+| If you... | Consider |
+| --- | --- |
+| Need the money within ~5 years | Income (20/80) or Conservative (40/60) |
+| Are investing for the medium term and dislike big drops | Balanced (60/40) |
+| Have a long horizon (10+ years) and can sit through downturns | Growth (80/20) or Aggressive (100/0) |
+
+If unsure, start with **Balanced (60/40)**. The most important thing is to pick one and stick with it.
+
+## How to Get Started
+
+1. Open an account at a broker or fund platform (券商 or 基金 app).
+2. Pick a stock/bond split from above.
+3. Buy the matching funds in those proportions.
+4. Set up automatic monthly contributions (定投) so you invest without thinking about it.
+5. Once a year, rebalance back to your target split. Otherwise, don't touch it.
+
+The hardest part isn't picking funds — it's not selling when the market drops. Holding through the bad years is what makes this work.
 
 [^1]: Other vehicles outside mutual funds and ETFs are rated in [Other Vehicles](#other-vehicles) below.
 
