@@ -80,8 +80,8 @@ The following low-cost index funds that are available for investors are selected
 
 | Asset Class             | Mutual Fund Example (基金示例) | Ticker | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
 | ----------------------- | ------------------------------ | ------ | ------------------------- | -------------------------------- | --------- |
-| Bonds                   | 短期政策性金融债基金           | TBD    | ~0.15%                    | -                                | ~0.20%    |
-| A Shares                | 易方达中证 800ETF              | 007856 | 0.29%                     | -                                | 0.29%     |
+| Bonds                   | 短期政策性金融债基金           | TBD    | ~0.15%                    | -                                | -         |
+| A Shares                | 易方达中证 800ETF              | 007856 | 0.29%                     | -                                | -         |
 | Hong Kong-listed Stocks | 华夏沪港通恒生 ETF             | 000948 | 0.61%                     | 3.1% \* ~24% = ~0.74%            | 1.35%     |
 | U.S. Large Stocks       | 摩根标普 500 指数              | 017641 | 0.68%                     | 1.1% \* 10% = 0.11%              | 0.79%     |
 
@@ -187,11 +187,11 @@ pie
 
 More stocks means higher long-run returns but bigger swings along the way. A rough guide:
 
-| If you... | Consider |
-| --- | --- |
-| Need the money within ~5 years | Income (20/80) or Conservative (40/60) |
-| Are investing for the medium term and dislike big drops | Balanced (60/40) |
-| Have a long horizon (10+ years) and can sit through downturns | Growth (80/20) or Aggressive (100/0) |
+| If you...                                                     | Consider                               |
+| ------------------------------------------------------------- | -------------------------------------- |
+| Need the money within ~5 years                                | Income (20/80) or Conservative (40/60) |
+| Are investing for the medium term and dislike big drops       | Balanced (60/40)                       |
+| Have a long horizon (10+ years) and can sit through downturns | Growth (80/20) or Aggressive (100/0)   |
 
 If unsure, start with **Balanced (60/40)**. The most important thing is to pick one and stick with it.
 
