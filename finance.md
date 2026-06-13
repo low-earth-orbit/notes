@@ -18,7 +18,11 @@ There appears to be a private equity premium from historical data. This premium 
 
 - [Have Private Equity Returns Really Declined?](https://www.jstor.org/stable/26864432)
 
-## Lifecycle Theory
+## Asset rate of return
+
+- [The Rate of Return on Everything, 1870–2015](https://www.frbsf.org/research-and-insights/publications/working-papers/2017/12/the-rate-of-return-on-everything-1870-2015/)
+
+## Lifecycle asset allocation
 
 A new paper challenges target-date fund's glide path suggested by lifecycle theory.
 
