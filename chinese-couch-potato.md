@@ -12,7 +12,7 @@ Key takeaways:
 
 - Prevailing evidence shows that actively managed funds typically _underperform_ the market after adjusting for fees.
 
-- Factor premiums, discovered through backtesting, have historically existed. However, its persistency is uncertain. It wouldn't be meaningful for the average person to take a bet at the price of deviating from the cap-weighted version and incurring higher fees.
+- Factor premiums, discovered through backtesting, have historically existed. However, their persistence is uncertain. It wouldn't be meaningful for the average person to take a bet at the price of deviating from the cap-weighted version and incurring higher fees.
 
 - Market timing, a common investment pitfall, is one of the worst habits investors tend to fall into.
 
@@ -73,7 +73,7 @@ Note:
 
 The following low-cost index funds that are available for investors are selected to represent these four asset classes.
 
-| Asset Class             | Mutual Fund Example (场外基金示例) | Ticker | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
+| Asset Class             | Mutual Fund Example (基金示例) | Ticker | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
 | ----------------------- | ---------------------------------- | ------ | ------------------------- | -------------------------------- | --------- |
 | China Bond Market       | 易方达中债新综指 A                 | 161119 | 0.20%                     | -                                | 0.20%     |
 | A Shares                | 易方达中证 800ETF                  | 007856 | 0.29%                     | -                                | 0.29%     |
@@ -90,7 +90,7 @@ The model portfolios are derived from minimum-variance portfolio, with some subj
 
 Allocating a portion to international stocks, especially U.S. equities, is crucial for diversification and volatility reduction.
 
-Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
+Those who invest solely in A Shares (or A+H Shares) tend to experience poorer risk-adjusted returns — A standard deviation of 20% is very high for most people. A portfolio consisting of just a few A-Share stocks typically has volatility a lot more than 20%, with the expected return being the same.
 
 Like investors in other markets, Chinese investors should consider an optimal home bias. Allocating between 70-90% of the equity portion to international equities is desirable. The model portfolios suggest a 12/8/80 split for Shanghai & Shenzhen/HK/US, which serves as a good starting point.
 
