@@ -1,157 +1,149 @@
 # Chinese Couch Potato Investing
 
-Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a great guide to low-cost, passive index investing. This note adapts the idea into example "couch potato" portfolios for investors in mainland China.
+Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a useful guide to low-cost, passive index investing. This note adapts that approach for investors in mainland China through a set of example "couch potato" portfolios.
 
 _Last updated: 2026. Fund fees, returns, tax rates, and rules change over time — check the current numbers before you act._
 
-**Not financial advice.** This is my personal opinion for general education, not a recommendation for you. Your situation is different, fund details and tax rules change over time, and all the numbers here are estimates that can be wrong. Do your own research and consider a licensed adviser before investing. You invest at your own risk.
+**Not financial advice.** This note reflects my personal views and is intended for general education. It is not a personal recommendation. Fund details, tax rules, and individual circumstances vary, and the estimates in this note may be wrong. Do your own research and consider consulting a licensed adviser before investing.
 
-**For most people, the best place to invest is a simple mix of low-cost, broad index funds — bonds and stocks — held passively.**
+**For most people, a simple, passively managed mix of low-cost, broad stock and bond index funds is a sensible place to start.**
 
 Key takeaways:
 
-- Invest a fixed amount regularly and hold. This beats the urge to react to the news.
+- Invest a fixed amount regularly and hold for the long term. This reduces the temptation to react to market news.
 
 - After fees, most active funds _underperform_ the market.
 
-- Factor tilts (value, etc.) have worked in the past, but may not keep working. Not worth the higher fees for most people.
+- Factor tilts, such as value, have worked in the past but may not continue to do so. For most people, they are not worth the added cost and complexity.
 
-- Don't try to time the market. It's one of the worst habits investors have.
+- Avoid trying to time the market. It is one of the most damaging habits investors can develop.
 
-- Day trading and crypto are closer to gambling than investing. Skip them.
+- Day trading and crypto are closer to speculation than long-term investing and are excluded from this approach.
 
-- Picking individual stocks or hot sectors usually trails the market too.
+- Picking individual stocks or popular sectors also tends to underperform the broader market.
 
 ## Available Asset Classes
 
-The meaningful and accessible asset classes for investors in mainland China, available as off-exchange mutual funds (场外公募基金) or ETFs[^1], are as follows:
+Investors in mainland China can access the following asset classes through off-exchange public mutual funds (场外公募基金) or ETFs[^1]:
 
-- Cash
-  - Money market funds (货币基金, e.g. 余额宝) are for emergency cash and short-term parking — not a portfolio asset class. Keep these separate from your invested money.
-- Domestic Bonds
-  - Focus on short-duration, high-quality bonds: policy-bank bonds (政策性金融债) and central government bonds (国债). These carry very low credit and interest-rate risk.
-- A Shares (Shanghai & Shenzhen Stock Exchanges)
+- Domestic bonds
+  - Focus on high-quality bonds: policy-bank bonds (政策性金融债) and central government bonds (国债).
+- A-shares (Shanghai and Shenzhen stock exchanges)
   - CSI 800 index (中证 800 指数), large and mid caps.
   - CSI 300 index (沪深 300 指数), a large-cap-only alternative.
-- Hong Kong-listed Stocks
-  - Hang Seng Index (恒生指数), a large-cap index for stocks listed in the Hong Kong Stock Exchange representing 60% capitalization.
-  - Hang Seng China Enterprises Index (恒生中国企业指数), comprises companies with close business ties to mainland China.
-- U.S. Large Stocks
-  - Nasdaq 100 and S&P 500 are available as QDII funds.
+- Hong Kong-listed stocks
+  - Hang Seng Index (恒生指数), a large-cap index representing about 60% of the market capitalization of the Hong Kong Stock Exchange.
+  - Hang Seng China Enterprises Index (恒生中国企业指数), comprising companies with close business ties to mainland China.
+- U.S. large-cap stocks
+  - The Nasdaq-100 and S&P 500 are available through QDII funds.
 - Other international markets (e.g., Europe, Japan) are available but with limited options and high fees.
 
 ## Capital Market Assumptions
 
-### Return and Volatility Assumptions
+### Return and volatility assumptions
 
-| Asset class       | Expected return (author's estimate) | Annualized Volatility (10-y historical) |
-| ----------------- | ----------------------------------: | --------------------------------------: |
-| Bonds             |                                  3% |                                   1.79% |
-| A Shares          |                                  8% |                                  20.39% |
-| HK-listed Stocks  |                                  8% |                                  21.32% |
-| U.S. Large Stocks |                                  8% |                                  14.46% |
+| Asset class           | Expected return (author's estimate) | Annualized volatility (10-year historical) |
+| --------------------- | ----------------------------------: | -----------------------------------------: |
+| Bonds                 |                                  3% |                                      1.79% |
+| A-shares              |                                  8% |                                     20.39% |
+| HK-listed stocks      |                                  8% |                                     21.32% |
+| U.S. large-cap stocks |                                  8% |                                     14.46% |
 
-Note:
+Notes:
 
-1. Expected returns above are compound, nominal, before taxes and fees.
+1. The expected returns above are compound nominal returns before taxes and fees.
 2. I give all three stock markets the **same** 8% return on purpose, so the mix is decided by diversification, not by guessing which market wins.
-3. 10-y volatilities are from the factsheets below. These indices don't exactly match the funds you'd hold (e.g. MSCI China A Onshore ≠ CSI 800), so real volatility will differ a bit:
+3. Ten-year volatilities come from the factsheets listed below. These indices do not exactly match the funds used in the portfolios (for example, MSCI China A Onshore is not the same as CSI 800), so actual volatility will differ:
    - Bonds: Factsheet for S&P China Bond Index (a broad index; a short-term policy-bank fund or term deposit will be even less volatile)
-   - A Shares: Factsheet for MSCI China A Onshore Index
-   - HK-listed Stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
-   - U.S. Large Stocks: Factsheet for S&P 500 (in CNY)
+   - A-shares: Factsheet for MSCI China A Onshore Index
+   - HK-listed stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
+   - U.S. large-cap stocks: Factsheet for S&P 500 (in CNY)
 
 ### Correlations
 
-| Asset Class       | A Shares | HK-listed Stocks | U.S. Large Stocks |
-| ----------------- | -------: | ---------------: | ----------------: |
-| A Shares          |        1 |             0.65 |              0.37 |
-| HK-listed Stocks  |     0.65 |                1 |              0.56 |
-| U.S. Large Stocks |     0.37 |             0.56 |                 1 |
+| Asset class           | A-shares | HK-listed stocks | U.S. large-cap stocks |
+| --------------------- | -------: | ---------------: | --------------------: |
+| A-shares              |        1 |             0.65 |                  0.37 |
+| HK-listed stocks      |     0.65 |                1 |                  0.56 |
+| U.S. large-cap stocks |     0.37 |             0.56 |                     1 |
 
-Note:
+Notes:
 
-1. Correlations are author's calculation from MSCI data.
+1. Correlations are the author's calculations from MSCI data.
 2. Bonds are left out.
 
 ## Representative Funds
 
-The following low-cost index funds that are available for investors are selected as examples.
+The following funds are representative examples of low-cost index products available to investors.
 
-| Asset Class             | Mutual Fund Example (基金示例) | Ticker | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
-| ----------------------- | ------------------------------ | ------ | ------------------------- | -------------------------------- | --------- |
-| Bonds                   | 短期政策性金融债基金           | TBD    | ~0.15%                    | -                                | -         |
-| A Shares                | 易方达中证 800ETF              | 007856 | 0.29%                     | -                                | -         |
-| Hong Kong-listed Stocks | 华夏沪港通恒生 ETF             | 000948 | 0.61%                     | 3.1% \* ~24% = ~0.74%            | 1.35%     |
-| U.S. Large Stocks       | 摩根标普 500 指数              | 017641 | 0.68%                     | 1.1% \* 10% = 0.11%              | 0.79%     |
+| Asset Class             | Mutual Fund Example (基金示例) | Ticker                    | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
+| ----------------------- | ------------------------------ | ------------------------- | ------------------------- | -------------------------------- | --------- |
+| Bonds                   | 政策性金融债                   | 511520 场内 / 006961 场外 | 0.20%                     | -                                | -         |
+| A Shares                | 易方达中证 800ETF              | 007856                    | 0.29%                     | -                                | -         |
+| Hong Kong-listed Stocks | 华夏沪港通恒生 ETF             | 000948                    | 0.61%                     | 3.1% \* ~24% = ~0.74%            | 1.35%     |
+| U.S. Large Stocks       | 摩根标普 500 指数              | 017641                    | 0.68%                     | 1.1% \* 10% = 0.11%              | 0.79%     |
 
-Note:
+Notes:
 
-1. These are just examples. The bond fund ticker is TBD — pick a low-fee one at your broker and check its fee. For bonds you can also just use term deposits (定期存款): low-risk, simple, no fund fee.
-2. Foreign Withholding Tax = `dividend yield × tax rate`, a yearly drag on return.
+1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
+2. Foreign withholding tax = `dividend yield × tax rate`, a yearly drag on returns.
 
 ## Constructing Model Portfolios
 
-These start from the math that minimizes volatility, then I adjust by hand. They are **not** raw optimizer output: since all three stock markets share the same assumed return, the math alone would dump nearly everything into the U.S. and drop Hong Kong. The splits below pull that back to something sensible.
+These portfolios begin with minimum-volatility analysis and are then adjusted manually. They are **not** raw optimizer output. Because all three stock markets have the same assumed return, the optimizer would allocate almost everything to the U.S. market and little or nothing to Hong Kong. The allocations below temper that result with practical diversification considerations.
 
-Holding some international stocks, especially U.S. ones, is key for diversification and lower volatility.
+Holding international stocks, particularly U.S. stocks, can improve diversification and reduce overall volatility.
 
-Going all-in on A-shares (or A+H) gives worse risk-adjusted returns. A 20% standard deviation is already high; a handful of A-share stocks swings even more, for no extra expected return.
+An all-A-share portfolio, or even an A-share and H-share portfolio, has worse expected risk-adjusted returns under these assumptions. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-Like investors everywhere, you should limit home bias. Put 70-90% of your stocks abroad. These portfolios use a 12/8/80 split across Shanghai & Shenzhen / HK / U.S. as a starting point.
+As with investors in other countries, mainland Chinese investors should be cautious about home bias. These portfolios place 80% of the equity sleeve outside mainland China, using a 20/10/70 split across Shanghai and Shenzhen, Hong Kong, and the U.S.
 
-The downside: with 80% of stocks in U.S. assets, most of your stock money is in U.S. dollars. Long term that's healthy diversification, but the CNY/USD swing adds ups and downs. Go in knowing this.
+Rebalance to your target allocation on a schedule, such as once a year, or whenever an asset class drifts by more than about five percentage points. The important part is to choose a rule and apply it consistently. Rebalancing encourages buying low and selling high without relying on market timing.
 
-Rebalance back to your targets on a schedule — say once a year, or whenever a slice drifts more than ~5 points off. Any rule works; pick one and follow it. That's what makes you buy low and sell high without trying to time the market.
-
-### Asset selection considerations
-
-#### Personal pension account (个人养老金)
-
-This is a tax-advantaged account, not an asset class. You can put in up to ¥12,000 a year and deduct it from taxable income, then hold pension funds (养老 FOF), index funds, or deposits inside. If you pay enough income tax for the deduction to matter, fill it first. The catch: the money is locked until retirement.
+### Asset-selection considerations
 
 #### Other international markets
 
-Adding Europe and Japan would help diversify away from the U.S. But for now the QDII funds are few and the fees too high to be worth it. If cheaper options appear, they'd be worth adding. One I've noted: 006282 摩根欧洲指数 (tracks MSCI Europe).
+Europe and Japan are not included because suitable low-cost index funds remain limited. Future versions may include them if better options become available.
 
 #### Gold
 
-I left gold out. It pays no income, its long-run real return is about flat, and it swings almost like stocks. Bonds calm a portfolio better and pay you while they do it. Still, a small slice (up to 10%) in place of bonds is fine if you want extra diversification.
+Gold is excluded because it produces no income, has delivered roughly flat long-run real returns, and can be almost as volatile as stocks. Bonds generally provide more reliable portfolio stability while producing income. A small allocation of up to 10% in place of bonds may still be reasonable for investors who want additional diversification.
 
 #### Commodities
 
-Like gold: high volatility, low expected return. Good index funds are also scarce. Left out.
+Commodities share many of gold's drawbacks: high volatility, low expected returns, and limited access through suitable index funds. They are therefore excluded.
 
 #### REITs
 
-I don't treat REITs as a separate asset class. Listed REITs move more with stocks than with bonds (and differ from owning property directly), so they don't add much to a market-cap-weighted portfolio. Left out.
+This note does not treat REITs as a separate asset class. Listed REITs behave more like stocks than bonds and differ from direct property ownership, so they add limited diversification to a market-cap-weighted equity portfolio. They are therefore excluded.
 
-#### Style-tilt / factor investing
+#### Style and factor tilts
 
-Don't tilt toward quality, value, dividend (红利), low-vol (低波动), or any factor. It's unclear these keep paying off, and they cost more. To lower risk, add bonds instead. Stick with plain market-cap-weighted index funds.
+Avoid tilting toward quality, value, dividends (红利), low volatility (低波动), or other factors. Their future premiums are uncertain, and the funds generally cost more. To reduce risk, add bonds rather than relying on a factor tilt. For the equity sleeve, use broad, market-cap-weighted index funds.
 
-Don't tilt toward sectors either. Picking Nasdaq 100 over the S&P 500 is a bet on tech — classic performance chasing.
+Avoid sector tilts as well. Choosing the Nasdaq-100 over the S&P 500 is largely a bet on technology and may amount to performance chasing.
 
 ## Final Results
 
-### 20% Stocks/80% Bonds "Income"
+### 20% Stocks/80% Bonds "Conservative"
 
 ```mermaid
 pie
 "Bonds" : 80
-"CSI 800": 2.4
-"Hang Seng Index" : 1.6
-"S&P 500" : 16
+"CSI 800": 4
+"Hang Seng Index" : 2
+"S&P 500" : 14
 ```
 
-### 40% Stocks/60% Bonds "Conservative"
+### 40% Stocks/60% Bonds "Moderate"
 
 ```mermaid
 pie
 "Bonds" : 60
-"CSI 800" : 4.8
-"Hang Seng Index" : 3.2
-"S&P 500" : 32
+"CSI 800" : 8
+"Hang Seng Index" : 4
+"S&P 500" : 28
 ```
 
 ### 60% Stocks/40% Bonds "Balanced"
@@ -159,9 +151,9 @@ pie
 ```mermaid
 pie
 "Bonds" : 40
-"CSI 800" : 7.2
-"Hang Seng Index" : 4.8
-"S&P 500" : 48
+"CSI 800" : 12
+"Hang Seng Index" : 6
+"S&P 500" : 42
 ```
 
 ### 80% Stocks/20% Bonds "Growth"
@@ -169,55 +161,47 @@ pie
 ```mermaid
 pie
 "Bonds" : 20
-"CSI 800" : 9.6
-"Hang Seng Index" : 6.4
-"S&P 500" : 64
+"CSI 800" : 16
+"Hang Seng Index" : 8
+"S&P 500" : 56
 ```
 
 ### 100% Stocks "Aggressive"
 
 ```mermaid
 pie
-"CSI 800" : 12
-"Hang Seng Index" : 8
-"S&P 500" : 80
+"CSI 800" : 20
+"Hang Seng Index" : 10
+"S&P 500" : 70
 ```
 
 ## Which One Should You Pick?
 
-More stocks means higher long-run returns but bigger swings along the way. A rough guide:
-
-| If you...                                                     | Consider                               |
-| ------------------------------------------------------------- | -------------------------------------- |
-| Need the money within ~5 years                                | Income (20/80) or Conservative (40/60) |
-| Are investing for the medium term and dislike big drops       | Balanced (60/40)                       |
-| Have a long horizon (10+ years) and can sit through downturns | Growth (80/20) or Aggressive (100/0)   |
-
-If unsure, start with **Balanced (60/40)**. The most important thing is to pick one and stick with it.
+More stocks mean higher expected long-run returns, but also larger fluctuations and potential losses. Choose an allocation that fits your circumstances and your ability to tolerate those losses, then follow it consistently.
 
 ## How to Get Started
 
 1. Open an account at a broker or fund platform (券商 or 基金 app).
 2. Pick a stock/bond split from above.
 3. Buy the matching funds in those proportions.
-4. Set up automatic monthly contributions (定投) so you invest without thinking about it.
-5. Once a year, rebalance back to your target split. Otherwise, don't touch it.
+4. Set up automatic monthly contributions (定投) to make investing consistent.
+5. Rebalance to your target allocation once a year. Otherwise, leave the portfolio alone.
 
-The hardest part isn't picking funds — it's not selling when the market drops. Holding through the bad years is what makes this work.
-
-[^1]: Other vehicles outside mutual funds and ETFs are rated in [Other Vehicles](#other-vehicles) below.
+The hardest part is not choosing the funds; it is avoiding panic-selling when markets fall. Rebalance according to your chosen rule and otherwise remain invested through market downturns.
 
 ## Other Vehicles
 
-Vehicles that are not mutual funds or ETFs, and how I rate them:
+The following table summarizes other investment and savings vehicles that fall outside the model portfolios:
 
-| Vehicle                                          | Recommendation       | Why                                                                        |
-| ------------------------------------------------ | -------------------- | -------------------------------------------------------------------------- |
-| Bank term deposits (定期存款)                    | ✅ Good for bonds    | Near-zero risk, no fund fee, simple. A fine substitute for the bond slice. |
-| Money market funds (货币基金)                    | ✅ Good for cash     | For emergency cash and parking, not a portfolio asset.                     |
-| Direct real estate (投资房)                      | ➖ Separate decision | Large, illiquid, concentrated. Outside the scope of this note.             |
-| Wealth management products (理财产品)            | ⚠️ Caution           | Less transparent than mutual funds; holdings and risk are often unclear.   |
-| Privately offered funds (私募基金)               | ❌ Avoid             | High minimums, high fees, low transparency.                                |
-| Savings/investment insurance (储蓄型/投资型保险) | ❌ Avoid             | High cost, poor returns; mixes insurance with investing.                   |
-| Private equity / trusts (私募股权/信托)          | ❌ Avoid             | Illiquid, opaque, and higher risk than they appear.                        |
-| Futures / options (期货/期权)                    | ❌ Avoid             | Speculation, not investing — same bucket as day trading.                   |
+| Vehicle           | Recommendation       | Why                                                                        |
+| ----------------- | -------------------- | -------------------------------------------------------------------------- |
+| 定期存款          | ✅ Good for bonds    | Near-zero risk, no fund fee, simple. A fine substitute for the bond slice. |
+| 货币基金          | ✅ Good for cash     | For emergency cash and parking, not a portfolio asset.                     |
+| 理财产品          | ⚠️ Caution           | Less transparent than 公募基金 and often heavily promoted by bank staff.   |
+| 投资房            | ➖ Separate decision | Large, illiquid, concentrated. Outside the scope of this note.             |
+| 私募基金          | ❌ Avoid             | High minimums, high fees, low transparency.                                |
+| 储蓄型/投资型保险 | ❌ Avoid             | High cost, poor returns; mixes insurance with investing.                   |
+| 私募股权/信托     | ❌ Avoid             | Illiquid, opaque, and higher risk than they appear.                        |
+| 期货/期权         | ❌ Avoid             | Speculation, not investing — same bucket as day trading.                   |
+
+[^1]: Other vehicles outside mutual funds and ETFs are summarized in [Other Vehicles](#other-vehicles) below.
