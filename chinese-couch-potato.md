@@ -24,7 +24,7 @@ Key takeaways:
 
 ## Available Asset Classes
 
-Investors in mainland China can access the following asset classes through off-exchange public mutual funds (场外公募基金) or ETFs[^1]:
+Investors in mainland China can access the following asset classes through mutual funds or ETFs:
 
 - Domestic bonds
   - Focus on high-quality bonds: policy-bank bonds (政策性金融债) and central government bonds (国债).
@@ -203,5 +203,3 @@ The following table summarizes other investment and savings vehicles that fall o
 | 储蓄型/投资型保险 | ❌ Avoid             | High cost, poor returns; mixes insurance with investing.                   |
 | 私募股权/信托     | ❌ Avoid             | Illiquid, opaque, and higher risk than they appear.                        |
 | 期货/期权         | ❌ Avoid             | Speculation, not investing — same bucket as day trading.                   |
-
-[^1]: Other vehicles outside mutual funds and ETFs are summarized in [Other Vehicles](#other-vehicles) below.
