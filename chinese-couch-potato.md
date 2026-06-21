@@ -1,4 +1,4 @@
-# Chinese Couch Potato Investing
+# Chinese Couch Potato investing
 
 Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a useful guide to low-cost, passive index investing. This note adapts that approach for investors in mainland China through a set of example "couch potato" portfolios.
 
@@ -22,7 +22,7 @@ Key takeaways:
 
 - Picking individual stocks or popular sectors also tends to underperform the broader market.
 
-## Available Asset Classes
+## Available asset classes
 
 Investors in mainland China can access the following asset classes through mutual funds or ETFs:
 
@@ -38,7 +38,7 @@ Investors in mainland China can access the following asset classes through mutua
   - The Nasdaq-100 and S&P 500 are available through QDII funds.
 - Other international markets (e.g., Europe, Japan) are available but with limited options and high fees.
 
-## Capital Market Assumptions
+## Capital market assumptions
 
 ### Return and volatility assumptions
 
@@ -72,23 +72,23 @@ Notes:
 1. Correlations are the author's calculations from MSCI data.
 2. Bonds are left out.
 
-## Representative Funds
+## Representative funds
 
 The following funds are representative examples of low-cost index products available to investors.
 
-| Asset Class             | Mutual Fund Example (基金示例) | Ticker                    | Management Fee (运作费率) | Foreign Withholding Tax (分红税) | MER + FWT |
-| ----------------------- | ------------------------------ | ------------------------- | ------------------------- | -------------------------------- | --------- |
-| Bonds                   | 政策性金融债                   | 511520 场内 / 006961 场外 | 0.20%                     | -                                | -         |
-| A Shares                | 易方达中证 800ETF              | 007856                    | 0.29%                     | -                                | -         |
-| Hong Kong-listed Stocks | 华夏沪港通恒生 ETF             | 000948                    | 0.61%                     | 3.1% \* ~24% = ~0.74%            | 1.35%     |
-| U.S. Large Stocks       | 摩根标普 500 指数              | 017641                    | 0.68%                     | 1.1% \* 10% = 0.11%              | 0.79%     |
+| Asset class             | Mutual fund example (基金示例) | Ticker          | Management fee (运作费率) | Est. foreign withholding tax (分红税) |
+| ----------------------- | ------------------------------ | --------------- | ------------------------- | ------------------------------------- |
+| Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                     | -                                     |
+| A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                     | -                                     |
+| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                     | 3.1% \* 24% = 0.74%                   |
+| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                     | 1.1% \* 10% = 0.11%                   |
 
 Notes:
 
 1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
 2. Foreign withholding tax = `dividend yield × tax rate`, a yearly drag on returns.
 
-## Constructing Model Portfolios
+## Constructing model portfolios
 
 These portfolios begin with minimum-volatility analysis and are then adjusted manually. They are **not** raw optimizer output. Because all three stock markets have the same assumed return, the optimizer would allocate almost everything to the U.S. market and little or nothing to Hong Kong. The allocations below temper that result with practical diversification considerations.
 
@@ -96,7 +96,7 @@ Holding international stocks, particularly U.S. stocks, can improve diversificat
 
 An all-A-share portfolio, or even an A-share and H-share portfolio, has worse expected risk-adjusted returns under these assumptions. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-As with investors in other countries, mainland Chinese investors should be cautious about home bias. These portfolios place 80% of the equity sleeve outside mainland China, using a 20/10/70 split across Shanghai and Shenzhen, Hong Kong, and the U.S.
+As with investors in other countries, mainland Chinese investors should be cautious about home bias. These portfolios place 70% of the equity sleeve outside Greater China, using an 18/12/70 split across Shanghai and Shenzhen, Hong Kong, and the U.S.
 
 Rebalance to your target allocation on a schedule, such as once a year, or whenever an asset class drifts by more than about five percentage points. The important part is to choose a rule and apply it consistently. Rebalancing encourages buying low and selling high without relying on market timing.
 
@@ -124,62 +124,62 @@ Avoid tilting toward quality, value, dividends (红利), low volatility (低波�
 
 Avoid sector tilts as well. Choosing the Nasdaq-100 over the S&P 500 is largely a bet on technology and may amount to performance chasing.
 
-## Final Results
+## Final results
 
-### 20% Stocks/80% Bonds "Conservative"
+### 20% stocks/80% bonds "Conservative"
 
 ```mermaid
 pie
 "Bonds" : 80
-"CSI 800": 4
-"Hang Seng Index" : 2
+"CSI 800": 3.6
+"Hang Seng Index" : 2.4
 "S&P 500" : 14
 ```
 
-### 40% Stocks/60% Bonds "Moderate"
+### 40% stocks/60% bonds "Moderate"
 
 ```mermaid
 pie
 "Bonds" : 60
-"CSI 800" : 8
-"Hang Seng Index" : 4
+"CSI 800" : 7.2
+"Hang Seng Index" : 4.8
 "S&P 500" : 28
 ```
 
-### 60% Stocks/40% Bonds "Balanced"
+### 60% stocks/40% bonds "Balanced"
 
 ```mermaid
 pie
 "Bonds" : 40
-"CSI 800" : 12
-"Hang Seng Index" : 6
+"CSI 800" : 10.8
+"Hang Seng Index" : 7.2
 "S&P 500" : 42
 ```
 
-### 80% Stocks/20% Bonds "Growth"
+### 80% stocks/20% bonds "Growth"
 
 ```mermaid
 pie
 "Bonds" : 20
-"CSI 800" : 16
-"Hang Seng Index" : 8
+"CSI 800" : 14.4
+"Hang Seng Index" : 9.6
 "S&P 500" : 56
 ```
 
-### 100% Stocks "Aggressive"
+### 100% stocks "Aggressive"
 
 ```mermaid
 pie
-"CSI 800" : 20
-"Hang Seng Index" : 10
+"CSI 800" : 18
+"Hang Seng Index" : 12
 "S&P 500" : 70
 ```
 
-## Which One Should You Pick?
+## Which one should you pick?
 
 More stocks mean higher expected long-run returns, but also larger fluctuations and potential losses. Choose an allocation that fits your circumstances and your ability to tolerate those losses, then follow it consistently.
 
-## How to Get Started
+## How to get started
 
 1. Open an account at a broker or fund platform (券商 or 基金 app).
 2. Pick a stock/bond split from above.
@@ -189,7 +189,7 @@ More stocks mean higher expected long-run returns, but also larger fluctuations 
 
 The hardest part is not choosing the funds; it is avoiding panic-selling when markets fall. Rebalance according to your chosen rule and otherwise remain invested through market downturns.
 
-## Other Vehicles
+## Other vehicles
 
 The following table summarizes other investment and savings vehicles that fall outside the model portfolios:
 
