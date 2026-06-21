@@ -39,22 +39,22 @@ Investors in mainland China can access these asset classes through mutual funds 
 
 ### Returns and volatilities
 
-| Asset class           | Expected return | Assumed annualized volatility |
-| --------------------- | --------------: | ----------------------------: |
-| Bonds                 |              3% |                            3% |
-| A-shares              |            7.5% |                           22% |
-| HK-listed stocks      |              8% |                           22% |
-| U.S. large-cap stocks |            6.5% |                           18% |
+| Asset class           | Expected return | Historical volatility (10-year) | Assumed volatility |
+| --------------------- | --------------: | ------------------------------: | -----------------: |
+| Bonds                 |              3% |                           1.69% |                 3% |
+| A-shares              |            7.5% |                          17.86% |                22% |
+| HK-listed stocks      |              8% |                          18.90% |                22% |
+| U.S. large-cap stocks |            6.5% |                          14.46% |                18% |
 
 Notes:
 
 1. The expected returns above are compound nominal returns before taxes and fees.
-2. Volatility assumptions are estimates informed by historical index data. They are intended for long-term planning rather than forecasts. Foreign-stock volatility is measured from the perspective of an unhedged CNY investor and therefore includes currency movements.
-3. Historical volatility references:
+2. Historical volatilities come from the factsheets listed below.
    - Bonds: Factsheet for S&P China Bond Index
    - A-shares: Factsheet for MSCI China A Onshore Index
    - HK-listed stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
    - U.S. large-cap stocks: Factsheet for S&P 500
+3. Assumed volatilities are conservative estimates used for long-term planning rather than forecasts. Foreign-stock assumptions reflect the perspective of an unhedged CNY investor and therefore include currency risk.
 
 ### Correlations
 
@@ -83,7 +83,7 @@ Notes:
 1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
 2. Foreign withholding tax = dividend yield × tax rate, a yearly drag on returns.
 
-## Constructing model portfolios
+## Methodology
 
 These portfolios begin with minimum-volatility analysis and are then adjusted manually to account for practical diversification considerations.
 
@@ -119,7 +119,7 @@ Avoid tilting toward quality, value, dividends (红利), low volatility (低波�
 
 Avoid sector tilts as well. Choosing the Nasdaq-100 over the S&P 500 is largely a bet on technology and may amount to performance chasing.
 
-## Final results
+## Model portfolios
 
 ### 20% stocks/80% bonds "Conservative"
 
@@ -170,11 +170,13 @@ pie
 "S&P 500" : 70
 ```
 
-## Which one should you pick?
+## Practical guide
+
+### Which one should you pick?
 
 More stocks mean higher expected long-run returns, but also larger fluctuations and potential losses. Choose an allocation that fits your circumstances and your ability to tolerate those losses, then follow it consistently.
 
-## How to get started
+### How to get started
 
 1. Open an account at a broker or fund platform (券商 or 基金 app).
 2. Pick a stock/bond split from above.
@@ -184,7 +186,7 @@ More stocks mean higher expected long-run returns, but also larger fluctuations 
 
 The hardest part is not choosing the funds; it is avoiding panic-selling when markets fall. Rebalance according to your chosen rule and otherwise remain invested through market downturns.
 
-## Other vehicles
+### Other investment vehicles
 
 The following table summarizes other investment and savings vehicles that fall outside the model portfolios:
 
