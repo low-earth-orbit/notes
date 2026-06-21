@@ -85,7 +85,7 @@ Notes:
 
 ## Constructing model portfolios
 
-These portfolios begin with minimum-volatility analysis and are then adjusted manually. They are **not** raw optimizer output. Because all three stock markets have the same assumed return, the optimizer would allocate almost everything to the U.S. market and little or nothing to Hong Kong. The allocations below temper that result with practical diversification considerations.
+These portfolios begin with minimum-volatility analysis and are then adjusted manually to account for practical diversification considerations.
 
 Holding international stocks, particularly U.S. stocks, can improve diversification and reduce overall volatility.
 
