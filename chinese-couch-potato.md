@@ -75,13 +75,13 @@ The following funds are representative examples of low-cost index products avail
 | ----------------------- | ------------------------------ | --------------- | ----------------------------------- | ------------------------------------- |
 | Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                               | -                                     |
 | A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                               | -                                     |
-| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                               | 3.1% × 24% = 0.74%                    |
+| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                               | 3.1% × 20% = 0.62%                    |
 | U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                               | 1.1% × 10% = 0.11%                    |
 
 Notes:
 
 1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
-2. Foreign withholding tax = dividend yield × tax rate, a yearly drag on returns.
+2. Foreign withholding tax = dividend yield × tax rate, a yearly drag on returns. It is deducted within the fund and reflected in its net asset value; it is not applied to the investment's total return.
 
 ## Methodology
 
