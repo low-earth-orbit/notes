@@ -150,26 +150,3 @@ This sensitivity test reruns every return case with historical volatilities whil
 | Constant 7% minus fees and tax  |   39.10% |     0.00% |      60.90% |            6.41% |               13.25% |              0.333 |
 
 Historical volatility generally raises A-share and U.S. weights while reducing Hong Kong. The proxy Sharpe ratios are higher mainly because all three historical volatilities are below the conservative planning assumptions, not because the portfolios are necessarily better.
-
-## Interpretation
-
-### Minimum volatility
-
-Both volatility sets point to approximately 30%-33% A-shares, 0%-8% Hong Kong, and 63%-67% U.S. stocks. A rounded minimum-volatility implementation could therefore use **30/5/65** or, for greater simplicity, **30/0/70**.
-
-### Maximum proxy Sharpe
-
-Maximum-proxy-Sharpe weights are not robust enough to implement literally. The estimated Hong Kong weight ranges from 0% to 30%, while A-shares range from 29% to 49%. This variation is driven by small differences in expected return relative to large estimation uncertainty.
-
-Changing the risk-free rate from 1% to 3% leaves the constant-return cases relatively stable but moves the U.S. weight by about 9-11 percentage points in the unequal-return cases. Treating all 24 combinations of return case, volatility case, and risk-free rate equally, a maximin relative-Sharpe test produces approximately **41/10/49**, while the best average relative-Sharpe allocation is approximately **39/7/54**. Equal weighting of these scenarios is itself a modeling choice, so these results support a rounded **40/10/50** Sharpe-focused allocation rather than precise weights.
-
-### Overall verdict
-
-The **35/5/60** allocation is the strongest single compromise from the optimization exercise because it:
-
-- remains near the minimum-volatility solutions, with 16.36% volatility under the base assumptions versus the 16.33% minimum, and 13.24% under historical volatility versus the 13.20% minimum;
-- retains all three markets;
-- moves toward the robust maximum-proxy-Sharpe allocations without adopting their unstable exact weights; and
-- recognizes Hong Kong's higher modeled implementation drag.
-
-Use **30/5/65** when minimum volatility is the sole objective, **40/10/50** when proxy Sharpe is the priority, or **35/5/60** when one allocation must balance both. The existing **18/12/70** policy requires an external preference for greater international diversification; it is not the direct conclusion of this optimization exercise.
