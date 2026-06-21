@@ -44,15 +44,15 @@ Investors in mainland China can access the following asset classes through mutua
 
 | Asset class           | Expected return (author's estimate) | Annualized volatility (10-year historical) |
 | --------------------- | ----------------------------------: | -----------------------------------------: |
-| Bonds                 |                                  3% |                                      1.79% |
-| A-shares              |                                  8% |                                     20.39% |
-| HK-listed stocks      |                                  8% |                                     21.32% |
-| U.S. large-cap stocks |                                  8% |                                     14.46% |
+| Bonds                 |                                  2% |                                      1.79% |
+| A-shares              |                                  7% |                                     20.39% |
+| HK-listed stocks      |                                  7% |                                     21.32% |
+| U.S. large-cap stocks |                                  7% |                                     14.46% |
 
 Notes:
 
 1. The expected returns above are compound nominal returns before taxes and fees.
-2. I give all three stock markets the **same** 8% return on purpose, so the mix is decided by diversification, not by guessing which market wins.
+2. I give all three stock markets the **same** 7% return on purpose, so the mix is decided by diversification, not by guessing which market wins.
 3. Ten-year volatilities come from the factsheets listed below. These indices do not exactly match the funds used in the portfolios (for example, MSCI China A Onshore is not the same as CSI 800), so actual volatility will differ:
    - Bonds: Factsheet for S&P China Bond Index (a broad index; a short-term policy-bank fund or term deposit will be even less volatile)
    - A-shares: Factsheet for MSCI China A Onshore Index

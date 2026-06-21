@@ -89,6 +89,7 @@ Recommended books to read for leisure:
 ## Missing Theory
 
 - After reflecting on what I learned during my CS degree, _at a minimum_, I recommend the following topics for non-CS background people to fill in core theory:
+
   - Programming
     - UCB CS61A (Python) _or_
     - Harvard CS50P (Python) _or_
@@ -101,6 +102,7 @@ Recommended books to read for leisure:
     - UCB CS169
 
 - Also recommended:
+
   - [Missing Semester](https://missing.csail.mit.edu/)
   - Math for CS
     - MIT 6.042J _or_
