@@ -116,6 +116,22 @@ The global minimum occurs at **37.27% Greater China**, divided into 29.63% A-sha
 
 At **30% Greater China**, the conditional minimum is 27.27% A-shares, 2.73% Hong Kong, and 70% U.S. stocks, producing 16.39% volatility. The existing 18/12/70 policy allocation also has 30% Greater China but produces slightly higher modeled volatility of 16.48% because its Hong Kong weight is higher. The 0.09-percentage-point difference is economically small relative to estimation uncertainty.
 
+### Greater-China allocation using 10-year historical volatility
+
+This figure replaces the base volatility assumptions with the 10-year historical volatilities. It retains the planning correlations and again minimizes volatility over the A-share/Hong Kong split at each Greater-China weight.
+
+```mermaid
+xychart-beta
+    title "Minimum volatility using 10-year historical volatility"
+    x-axis "Greater China allocation (%)" [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
+    y-axis "Portfolio volatility (%)" 13 --> 17
+    line [14.460, 14.118, 13.826, 13.586, 13.403, 13.277, 13.212, 13.204, 13.241, 13.322, 13.445, 13.609, 13.813, 14.056, 14.335, 14.648, 14.992, 15.367, 15.770, 16.198, 16.650]
+```
+
+The global minimum occurs at **33.24% Greater China**, divided into 32.52% A-shares and 0.72% Hong Kong, with 66.76% in U.S. stocks. Modeled volatility is 13.20%.
+
+At **30% Greater China**, the conditional minimum is 30% A-shares, 0% Hong Kong, and 70% U.S. stocks, producing 13.21% volatility. The existing 18/12/70 policy allocation produces 13.37%. This 0.16-percentage-point difference remains small relative to estimation uncertainty.
+
 ## Maximum-Sharpe results
 
 ### Base volatility
