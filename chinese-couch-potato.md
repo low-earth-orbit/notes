@@ -24,19 +24,16 @@ Key takeaways:
 
 ## Available asset classes
 
-Investors in mainland China can access the following asset classes through mutual funds or ETFs:
+Investors in mainland China can access these asset classes through mutual funds and ETFs:
 
-- Domestic bonds
-  - Focus on high-quality bonds: policy-bank bonds (政策性金融债) and central government bonds (国债).
-- A-shares (Shanghai and Shenzhen stock exchanges)
-  - CSI 800 index (中证 800 指数), large and mid caps.
-  - CSI 300 index (沪深 300 指数), a large-cap-only alternative.
-- Hong Kong-listed stocks
-  - Hang Seng Index (恒生指数), a large-cap index representing about 60% of the market capitalization of the Hong Kong Stock Exchange.
-  - Hang Seng China Enterprises Index (恒生中国企业指数), comprising companies with close business ties to mainland China.
-- U.S. large-cap stocks
-  - The Nasdaq-100 and S&P 500 are available through QDII funds.
-- Other international markets (e.g., Europe, Japan) are available but with limited options and high fees.
+- Domestic bonds: Prefer policy-bank bonds (政策性金融债) and central government bonds (国债) over corporate bonds.
+- A-shares: Prefer the CSI 800 Index (中证 800 指数), which covers large- and mid-cap stocks.
+  - Alternative: CSI 300 Index (沪深 300 指数), which covers large-cap stocks only.
+- Hong Kong-listed stocks: Prefer the Hang Seng Index (恒生指数), a broad large-cap index representing about 60% of the Hong Kong stock market by capitalization.
+  - Alternative: Hang Seng China Enterprises Index (恒生中国企业指数), which focuses on companies closely tied to mainland China.
+- U.S. large-cap stocks: Prefer the S&P 500, available through QDII funds.
+  - Alternative: Nasdaq-100.
+- Other international markets, such as Europe and Japan, are accessible but offer fewer options and generally charge higher fees.
 
 ## Capital market assumptions
 
@@ -44,20 +41,19 @@ Investors in mainland China can access the following asset classes through mutua
 
 | Asset class           | Expected return (author's estimate) | Annualized volatility (10-year historical) |
 | --------------------- | ----------------------------------: | -----------------------------------------: |
-| Bonds                 |                                  2% |                                      1.79% |
-| A-shares              |                                  7% |                                     20.39% |
-| HK-listed stocks      |                                  7% |                                     21.32% |
-| U.S. large-cap stocks |                                  7% |                                     14.46% |
+| Bonds                 |                                  3% |                                      1.69% |
+| A-shares              |                                7.5% |                                     17.86% |
+| HK-listed stocks      |                                  8% |                                     18.90% |
+| U.S. large-cap stocks |                                6.5% |                                     14.46% |
 
 Notes:
 
 1. The expected returns above are compound nominal returns before taxes and fees.
-2. I give all three stock markets the **same** 7% return on purpose, so the mix is decided by diversification, not by guessing which market wins.
-3. Ten-year volatilities come from the factsheets listed below. These indices do not exactly match the funds used in the portfolios (for example, MSCI China A Onshore is not the same as CSI 800), so actual volatility will differ:
-   - Bonds: Factsheet for S&P China Bond Index (a broad index; a short-term policy-bank fund or term deposit will be even less volatile)
+2. Ten-year volatilities come from the factsheets listed below.
+   - Bonds: Factsheet for S&P China Bond Index
    - A-shares: Factsheet for MSCI China A Onshore Index
    - HK-listed stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
-   - U.S. large-cap stocks: Factsheet for S&P 500 (in CNY)
+   - U.S. large-cap stocks: Factsheet for S&P 500
 
 ### Correlations
 
@@ -80,13 +76,13 @@ The following funds are representative examples of low-cost index products avail
 | ----------------------- | ------------------------------ | --------------- | ------------------------- | ------------------------------------- |
 | Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                     | -                                     |
 | A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                     | -                                     |
-| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                     | 3.1% \* 24% = 0.74%                   |
-| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                     | 1.1% \* 10% = 0.11%                   |
+| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                     | 3.1% × 24% = 0.74%                    |
+| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                     | 1.1% × 10% = 0.11%                    |
 
 Notes:
 
 1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
-2. Foreign withholding tax = `dividend yield × tax rate`, a yearly drag on returns.
+2. Foreign withholding tax = dividend yield × tax rate, a yearly drag on returns.
 
 ## Constructing model portfolios
 
