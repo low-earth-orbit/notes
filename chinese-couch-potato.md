@@ -37,19 +37,20 @@ Investors in mainland China can access these asset classes through mutual funds 
 
 ## Capital market assumptions
 
-### Return and volatility assumptions
+### Returns and volatilities
 
-| Asset class           | Expected return (author's estimate) | Annualized volatility (10-year historical) |
-| --------------------- | ----------------------------------: | -----------------------------------------: |
-| Bonds                 |                                  3% |                                      1.69% |
-| A-shares              |                                7.5% |                                     17.86% |
-| HK-listed stocks      |                                  8% |                                     18.90% |
-| U.S. large-cap stocks |                                6.5% |                                     14.46% |
+| Asset class           | Expected return | Assumed annualized volatility |
+| --------------------- | --------------: | ----------------------------: |
+| Bonds                 |              3% |                            3% |
+| A-shares              |            7.5% |                           22% |
+| HK-listed stocks      |              8% |                           22% |
+| U.S. large-cap stocks |            6.5% |                           18% |
 
 Notes:
 
 1. The expected returns above are compound nominal returns before taxes and fees.
-2. Ten-year volatilities come from the factsheets listed below.
+2. Volatility assumptions are estimates informed by historical index data. They are intended for long-term planning rather than forecasts. Foreign-stock volatility is measured from the perspective of an unhedged CNY investor and therefore includes currency movements.
+3. Historical volatility references:
    - Bonds: Factsheet for S&P China Bond Index
    - A-shares: Factsheet for MSCI China A Onshore Index
    - HK-listed stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
@@ -57,27 +58,25 @@ Notes:
 
 ### Correlations
 
-| Asset class           | A-shares | HK-listed stocks | U.S. large-cap stocks |
-| --------------------- | -------: | ---------------: | --------------------: |
-| A-shares              |        1 |             0.65 |                  0.37 |
-| HK-listed stocks      |     0.65 |                1 |                  0.56 |
-| U.S. large-cap stocks |     0.37 |             0.56 |                     1 |
+| Asset class           | Bonds | A-shares | HK-listed stocks | U.S. large-cap stocks |
+| --------------------- | ----: | -------: | ---------------: | --------------------: |
+| Bonds                 |  1.00 |     0.00 |             0.00 |                  0.00 |
+| A-shares              |  0.00 |     1.00 |             0.65 |                  0.40 |
+| HK-listed stocks      |  0.00 |     0.65 |             1.00 |                  0.55 |
+| U.S. large-cap stocks |  0.00 |     0.40 |             0.55 |                  1.00 |
 
-Notes:
-
-1. Correlations are the author's calculations from MSCI data.
-2. Bonds are left out.
+1. These long-term planning assumptions, not forecasts. Actual correlations may rise during periods of market stress.
 
 ## Representative funds
 
 The following funds are representative examples of low-cost index products available to investors.
 
-| Asset class             | Mutual fund example (基金示例) | Ticker          | Management fee (运作费率) | Est. foreign withholding tax (分红税) |
-| ----------------------- | ------------------------------ | --------------- | ------------------------- | ------------------------------------- |
-| Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                     | -                                     |
-| A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                     | -                                     |
-| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                     | 3.1% × 24% = 0.74%                    |
-| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                     | 1.1% × 10% = 0.11%                    |
+| Asset class             | Mutual fund example (基金示例) | Ticker          | Management expense ratio (运作费率) | Est. foreign withholding tax (分红税) |
+| ----------------------- | ------------------------------ | --------------- | ----------------------------------- | ------------------------------------- |
+| Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                               | -                                     |
+| A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                               | -                                     |
+| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                               | 3.1% × 24% = 0.74%                    |
+| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                               | 1.1% × 10% = 0.11%                    |
 
 Notes:
 
