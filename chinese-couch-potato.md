@@ -91,7 +91,7 @@ Holding international stocks, particularly U.S. stocks, can improve diversificat
 
 An all-A-share portfolio, or even an A-share and H-share portfolio, has worse expected risk-adjusted returns under these assumptions. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-As with investors in other countries, mainland Chinese investors should be cautious about home bias. These portfolios place 70% of the equity sleeve outside Greater China, using an 18/12/70 split across Shanghai and Shenzhen, Hong Kong, and the U.S.
+As with investors in other countries, mainland Chinese investors should be cautious about home bias. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating around 30%-50% of the equity sleeve to Greater China, making a 30/10/60 split across Shanghai and Shenzhen, Hong Kong, and the U.S. defensible. These portfolios instead use 18/12/70: mainland investors' income may already be correlated with the domestic stock market, and direct real-estate ownership can add further domestic exposure, so the A-share allocation is reduced in favor of greater geographic diversification.
 
 Rebalance to your target allocation on a schedule, such as once a year, or whenever an asset class drifts by more than about five percentage points. The important part is to choose a rule and apply it consistently. Rebalancing encourages buying low and selling high without relying on market timing.
 
