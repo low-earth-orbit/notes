@@ -74,7 +74,7 @@ The following funds are representative examples of low-cost index products avail
 | Asset class             | Mutual fund example (基金示例) | Ticker          | Management expense ratio (运作费率) | Est. foreign withholding tax (分红税) |
 | ----------------------- | ------------------------------ | --------------- | ----------------------------------- | ------------------------------------- |
 | Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                               | -                                     |
-| A-shares                | 易方达中证 800ETF              | 007856 场内     | 0.29%                               | -                                     |
+| A-shares                | 易方达中证 800ETF              | 515810 场内     | 0.29%                               | -                                     |
 | Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                               | 3.1% × 20% = 0.62%                    |
 | U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                               | 1.1% × 10% = 0.11%                    |
 
