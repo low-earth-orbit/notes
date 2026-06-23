@@ -87,13 +87,18 @@ Notes:
 
 These portfolios begin with minimum-volatility analysis and are then adjusted manually to account for practical diversification considerations.
 
-Holding international stocks, particularly U.S. stocks, can improve diversification and reduce overall volatility.
+Many Chinese investors don't invest in international. An all-A-share portfolio, or an A+H portfolio, has worse expected risk-adjusted returns. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-An all-A-share portfolio, or even an A-share and H-share portfolio, has worse expected risk-adjusted returns under these assumptions. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
+Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China. This makes a 30/10/60 split among A-shares, H-shares, and U.S. equities defensible.
 
-As with investors in other countries, mainland Chinese investors should be cautious about home bias. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating around 30%-50% of the equity sleeve to Greater China, making a 30/10/60 split across Shanghai and Shenzhen, Hong Kong, and the U.S. defensible. These portfolios instead use 18/12/70: mainland investors' income may already be correlated with the domestic stock market, and direct real-estate ownership can add further domestic exposure, so the A-share allocation is reduced in favor of greater geographic diversification.
+The model portfolios in this note instead use an 18/12/70 split for two reasons:
 
-Rebalance to your target allocation on a schedule, such as once a year, or whenever an asset class drifts by more than about five percentage points. The important part is to choose a rule and apply it consistently. Rebalancing encourages buying low and selling high without relying on market timing.
+- Mainland investors’ income may already be correlated with the domestic stock market.
+- Direct real-estate ownership may add further domestic exposure.
+
+The lower A-share allocation provides greater geographic diversification.
+
+Rebalance to your target allocation on a schedule—such as annually—or whenever an asset class drifts by more than about five percentage points. The important part is choosing a rule and applying it consistently. Rebalancing encourages buying low and selling high without market timing.
 
 ### Asset-selection considerations
 
