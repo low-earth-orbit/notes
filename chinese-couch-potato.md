@@ -89,7 +89,7 @@ These portfolios begin with minimum-volatility analysis and are then adjusted ma
 
 Many Chinese investors don't invest in international. An all-A-share portfolio, or an A+H portfolio, has worse expected risk-adjusted returns. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China. This makes a 30/10/60 split among A-shares, H-shares, and U.S. equities defensible.
+Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China. This makes a 30/10/60 split among A-shares, HK-listed, and U.S. equities defensible.
 
 The model portfolios in this note instead use an 18/12/70 split for two reasons:
 
