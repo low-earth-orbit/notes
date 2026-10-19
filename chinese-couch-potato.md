@@ -1,10 +1,10 @@
 # Chinese Couch Potato investing
 
-Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a useful guide to low-cost, passive index investing. This note adapts that approach for investors in mainland China through a set of example "couch potato" portfolios.
+Canada's [Canadian Couch Potato](https://canadiancouchpotato.com/) is a useful guide to low-cost, passive index investing. This note adapts that approach for Chinese domestic investors through a set of example "couch potato" portfolios.
 
-_Last updated: 2026. Fund fees, returns, tax rates, and rules change over time — check the current numbers before you act._
+_Last updated: Oct 2026. Fund fees, returns, tax rates, and rules change over time — check the current numbers before you act._
 
-**Not financial advice.** This note reflects my personal views and is intended for general education. It is not a personal recommendation. Fund details, tax rules, and individual circumstances vary, and the estimates in this note may be wrong. Do your own research and consider consulting a licensed adviser before investing.
+**Not financial advice.** This note reflects my personal views and is intended for general education. It is not financial, legal, tax, or accounting advice. Fund details, tax rules, and individual circumstances vary, and the estimates in this note may be incorrect. Do your own research and consider consulting a licensed adviser before investing.
 
 **For most people, a simple, passively managed mix of low-cost, broad stock and bond index funds is a sensible place to start.**
 
@@ -24,64 +24,30 @@ Key takeaways:
 
 ## Available asset classes
 
-Investors in mainland China can access these asset classes through mutual funds and ETFs:
+Investors in China can access these asset classes through mutual funds and ETFs:
 
-- Domestic bonds: Prefer policy-bank bonds (政策性金融债) and central government bonds (国债) over corporate bonds.
+- Chinese domestic bonds: Prefer policy-bank bonds (政策性金融债) and central government bonds (国债) over corporate bonds.
 - A-shares: Prefer the CSI 800 Index (中证 800 指数), which covers large- and mid-cap stocks.
   - Alternative: CSI 300 Index (沪深 300 指数), which covers large-cap stocks only.
 - Hong Kong-listed stocks: Prefer the Hang Seng Index (恒生指数), a broad large-cap index representing about 60% of the Hong Kong stock market by capitalization.
-  - Alternative: Hang Seng China Enterprises Index (恒生中国企业指数), which focuses on companies closely tied to mainland China.
+  - Alternative: Hang Seng China Enterprises Index (恒生中国企业指数), which focuses on companies closely tied to mainland China, not including local Hong Kong companies.
 - U.S. large-cap stocks: Prefer the S&P 500, available through QDII funds.
-  - Alternative: Nasdaq-100.
-- Other international markets, such as Europe and Japan, are accessible but offer fewer options and generally charge higher fees.
-
-## Capital market assumptions
-
-### Returns and volatilities
-
-| Asset class           | Expected return | Historical volatility (10-year) | Assumed volatility |
-| --------------------- | --------------: | ------------------------------: | -----------------: |
-| Bonds                 |              3% |                           1.69% |                 3% |
-| A-shares              |            7.5% |                          17.86% |                22% |
-| HK-listed stocks      |              8% |                          18.90% |                22% |
-| U.S. large-cap stocks |            6.5% |                          14.46% |                18% |
-
-Notes:
-
-1. The expected returns above are compound nominal returns before taxes and fees.
-2. Historical volatilities come from the factsheets listed below.
-   - Bonds: Factsheet for S&P China Bond Index
-   - A-shares: Factsheet for MSCI China A Onshore Index
-   - HK-listed stocks: Factsheet for MSCI Hong Kong-listed Southbound Index
-   - U.S. large-cap stocks: Factsheet for S&P 500
-3. Assumed volatilities are conservative estimates used for long-term planning rather than forecasts. Foreign-stock assumptions reflect the perspective of an unhedged CNY investor and therefore include currency risk.
-
-### Correlations
-
-| Asset class           | Bonds | A-shares | HK-listed stocks | U.S. large-cap stocks |
-| --------------------- | ----: | -------: | ---------------: | --------------------: |
-| Bonds                 |  1.00 |     0.00 |             0.00 |                  0.00 |
-| A-shares              |  0.00 |     1.00 |             0.65 |                  0.40 |
-| HK-listed stocks      |  0.00 |     0.65 |             1.00 |                  0.55 |
-| U.S. large-cap stocks |  0.00 |     0.40 |             0.55 |                  1.00 |
-
-1. These long-term planning assumptions, not forecasts. Actual correlations may rise during periods of market stress.
+- Other international markets, such as Europe and Japan, are accessible with higher fees.
 
 ## Representative funds
 
 The following funds are representative examples of low-cost index products available to investors.
 
-| Asset class             | Mutual fund example (基金示例) | Ticker          | Management expense ratio (运作费率) | Est. foreign withholding tax (分红税) |
-| ----------------------- | ------------------------------ | --------------- | ----------------------------------- | ------------------------------------- |
-| Bonds                   | 政策性金融债                   | 511520 场内     | 0.20%                               | -                                     |
-| A-shares                | 易方达中证 800ETF              | 515810 场内     | 0.29%                               | -                                     |
-| Hong Kong-listed stocks | 华夏沪港通恒生 ETF             | 513660 场内     | 0.61%                               | 3.1% × 20% = 0.62%                    |
-| U.S. large-cap stocks   | 摩根标普 500 指数              | 017641 **场外** | 0.68%                               | 1.1% × 10% = 0.11%                    |
+| Asset class             | Mutual fund example (基金示例) | Ticker          |
+| ----------------------- | ------------------------------ | --------------- |
+| Bonds                   | 易方达新综债LOF                | 161119 场内     |
+| A-shares                | 易方达中证 800ETF              | 515810 场内     |
+| Hong Kong-listed stocks | 恒生ETF                        | 159920 场内     |
+| U.S. large-cap stocks   | 摩根标普500指数                | 017641 **场外** |
 
 Notes:
 
 1. These funds are examples, not recommendations. Check each fund's current fees before investing. For the bond allocation, term deposits (定期存款) are another simple, low-risk option with no fund management fee.
-2. Foreign withholding tax = dividend yield × tax rate, a yearly drag on returns. It is deducted within the fund and reflected in its net asset value; it is not applied to the investment's total return.
 
 ## Methodology
 
@@ -89,9 +55,9 @@ These portfolios begin with minimum-volatility analysis and are then adjusted ma
 
 Many Chinese investors don't invest in international. An all-A-share portfolio, or an A+H portfolio, has worse expected risk-adjusted returns. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
 
-Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China. This makes a 30/10/60 split among A-shares, HK-listed, and U.S. equities defensible.
+Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China for minimizing volatility.
 
-The model portfolios in this note instead use an 18/12/70 split for two reasons:
+The model portfolios in this note use an **18/12/70** split (lower end) for two reasons:
 
 - Mainland investors’ income may already be correlated with the domestic stock market.
 - Direct real-estate ownership may add further domestic exposure.
@@ -195,13 +161,13 @@ The hardest part is not choosing the funds; it is avoiding panic-selling when ma
 
 The following table summarizes other investment and savings vehicles that fall outside the model portfolios:
 
-| Vehicle           | Recommendation       | Why                                                                        |
-| ----------------- | -------------------- | -------------------------------------------------------------------------- |
-| 定期存款          | ✅ Good for bonds    | Near-zero risk, no fund fee, simple. A fine substitute for the bond slice. |
-| 货币基金          | ✅ Good for cash     | For emergency cash and parking, not a portfolio asset.                     |
-| 理财产品          | ⚠️ Caution           | Less transparent than 公募基金 and often heavily promoted by bank staff.   |
-| 投资房            | ➖ Separate decision | Large, illiquid, concentrated. Outside the scope of this note.             |
-| 私募基金          | ❌ Avoid             | High minimums, high fees, low transparency.                                |
-| 储蓄型/投资型保险 | ❌ Avoid             | High cost, poor returns; mixes insurance with investing.                   |
-| 私募股权/信托     | ❌ Avoid             | Illiquid, opaque, and higher risk than they appear.                        |
-| 期货/期权         | ❌ Avoid             | Speculation, not investing — same bucket as day trading.                   |
+| Vehicle                                          | Recommendation    | Why                                                                        |
+| ------------------------------------------------ | ----------------- | -------------------------------------------------------------------------- |
+| Term deposits 定期存款                           | ✅ Good for bonds | Near-zero risk, no fund fee, simple. A fine substitute for the bond slice. |
+| Money market funds 货币基金                      | ✅ Good for cash  | For emergency cash and parking, not a portfolio asset.                     |
+| Wealth management products 理财产品              | ⚠️ Caution        | Less transparent than 公募基金 and often heavily promoted by bank staff.   |
+| Investment properties 投资房                     | ⚠️ Caution        | Large, illiquid, concentrated. Outside the scope of this note.             |
+| Life insurance 储蓄型/投资型保险                 | ⚠️ Caution        | High cost, poor returns; mixes insurance with investing.                   |
+| Privately-held investment fund 私募基金          | ❌ Avoid          | High minimums, high fees, low transparency.                                |
+| Private equities/investment trusts 私募股权/信托 | ❌ Avoid          | Illiquid, opaque, and higher risk than they appear.                        |
+| Futures/options 期货/期权                        | ❌ Avoid          | Speculation, not investing — same bucket as day trading.                   |
