@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "as_of": "2026-10-19",
+    "base_currency": "CNY",
+    "currency_hedging": "none",
+    "purpose": "Single planning-input set for the five-market equity allocation optimizer. Assumptions, not forecasts.",
+    "correlation_matrix_order": "Same as the assets array.",
+    "return_convention": "Gross arithmetic returns are optimizer inputs. Approximate gross geometric return = gross arithmetic return - 0.5 * volatility^2. Net geometric return = gross geometric return - fee - dividend withholding drag. Net arithmetic MVO return = gross arithmetic return - fee - dividend withholding drag.",
+    "fee_tax_convention": "One fee and withholding estimate per market. Dividend withholding drag = dividend yield * withholding rate.",
+    "sources": [
+      "The current user-selected planning assumptions in chinese-couch-potato-technical-note.md",
+      "J.P. Morgan Fund Management (China), 007280 Q1 2026 report: https://www.cifm.com/fund/007280/announce/202604/W020260422348726696092.pdf"
+    ]
+  },
+  "gross_arithmetic_return": 0.07,
+  "assets": [
+    {
+      "asset5": "A_shares",
+      "fund": "易方达中证800ETF联接A",
+      "ticker": "007856",
+      "volatility": 0.20,
+      "fee": 0.003,
+      "dividend_yield": 0.0215,
+      "withholding_rate": 0.0
+    },
+    {
+      "asset5": "HK_listed",
+      "fund": "华夏沪港通恒生ETF联接A",
+      "ticker": "000948",
+      "volatility": 0.20,
+      "fee": 0.006,
+      "dividend_yield": 0.031,
+      "withholding_rate": 0.20
+    },
+    {
+      "asset5": "US_largecap",
+      "fund": "摩根标普500指数(QDII)人民币A",
+      "ticker": "017641",
+      "volatility": 0.15,
+      "fee": 0.007,
+      "dividend_yield": 0.011,
+      "withholding_rate": 0.10
+    },
+    {
+      "asset5": "Europe",
+      "fund": "摩根欧洲动力策略股票(QDII)A",
+      "ticker": "006282",
+      "volatility": 0.15,
+      "fee": 0.015,
+      "dividend_yield": 0.0289,
+      "withholding_rate": 0.15
+    },
+    {
+      "asset5": "Japan",
+      "fund": "摩根日本精选股票(QDII)A",
+      "ticker": "007280",
+      "volatility": 0.15,
+      "fee": 0.014,
+      "dividend_yield": 0.0202,
+      "withholding_rate": 0.10
+    }
+  ],
+  "correlations": {
+    "matrix": [
+      [1.0, 0.55, 0.30, 0.30, 0.30],
+      [0.55, 1.0, 0.50, 0.50, 0.50],
+      [0.30, 0.50, 1.0, 0.80, 0.70],
+      [0.30, 0.50, 0.80, 1.0, 0.70],
+      [0.30, 0.50, 0.70, 0.70, 1.0]
+    ]
+  },
+  "policy_benchmark": {
+    "name": "18/12/70",
+    "weights_a_hk_us": [0.18, 0.12, 0.70]
+  }
+}

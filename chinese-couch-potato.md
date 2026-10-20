@@ -27,10 +27,10 @@ Key takeaways:
 Investors in China can access these asset classes through mutual funds and ETFs:
 
 - Chinese domestic bonds: Prefer policy-bank bonds (政策性金融债) and central government bonds (国债) over corporate bonds.
-- A-shares: Prefer the CSI 800 Index (中证 800 指数), which covers large- and mid-cap stocks.
-  - Alternative: CSI 300 Index (沪深 300 指数), which covers large-cap stocks only.
+- A-shares: Prefer the CSI 800 Index (中证800), which covers large- and mid-cap stocks.
+  - Alternative: CSI 300 Index (沪深300), which covers large-cap stocks only.
 - Hong Kong-listed stocks: Prefer the Hang Seng Index (恒生指数), a broad large-cap index representing about 60% of the Hong Kong stock market by capitalization.
-  - Alternative: Hang Seng China Enterprises Index (恒生中国企业指数), which focuses on companies closely tied to mainland China, not including local Hong Kong companies.
+  - Alternative: Hang Seng China Enterprises Index (恒生中国企业指数), which focuses on companies closely tied to the mainland, not including local Hong Kong companies.
 - U.S. large-cap stocks: Prefer the S&P 500, available through QDII funds.
 - Other international markets, such as Europe and Japan, are accessible with higher fees.
 
@@ -41,7 +41,7 @@ The following funds are representative examples of low-cost index products avail
 | Asset class             | Mutual fund example (基金示例) | Ticker          |
 | ----------------------- | ------------------------------ | --------------- |
 | Bonds                   | 易方达新综债LOF                | 161119 场内     |
-| A-shares                | 易方达中证 800ETF              | 515810 场内     |
+| A-shares                | 易方达中证800ETF               | 515810 场内     |
 | Hong Kong-listed stocks | 恒生ETF                        | 159920 场内     |
 | U.S. large-cap stocks   | 摩根标普500指数                | 017641 **场外** |
 
@@ -51,20 +51,9 @@ Notes:
 
 ## Methodology
 
-These portfolios begin with minimum-volatility analysis and are then adjusted manually to account for practical diversification considerations.
+Many Chinese investors don't invest in international. An all-A-share portfolio, or an A+H portfolio, has worse expected risk-adjusted returns. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return. Like investors elsewhere, Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility.
 
-Many Chinese investors don't invest in international. An all-A-share portfolio, or an A+H portfolio, has worse expected risk-adjusted returns. A standard deviation of 20% is already high, and a concentrated portfolio of individual A-shares can fluctuate even more without offering a higher expected return.
-
-Like investors elsewhere, mainland Chinese investors should be cautious about this home bias. Holding international stocks can improve diversification and reduce overall volatility. The [equity-allocation optimization](chinese-couch-potato-technical-note.md) broadly supports allocating 30%–50% of the equity sleeve to Greater China for minimizing volatility.
-
-The model portfolios in this note use an **18/12/70** split (lower end) for two reasons:
-
-- Mainland investors’ income may already be correlated with the domestic stock market.
-- Direct real-estate ownership may add further domestic exposure.
-
-The lower A-share allocation provides greater geographic diversification.
-
-Rebalance to your target allocation on a schedule—such as annually—or whenever an asset class drifts by more than about five percentage points. The important part is choosing a rule and applying it consistently. Rebalancing encourages buying low and selling high without market timing.
+These portfolios begin with [equity-allocation optimization](chinese-couch-potato-technical-note.md) and are then adjusted manually to account for practical diversification considerations. The model portfolios in this note use an **18/12/70** split.
 
 ### Asset-selection considerations
 
@@ -80,11 +69,7 @@ Gold is excluded because it produces no income, has delivered roughly flat long-
 
 Commodities share many of gold's drawbacks: high volatility, low expected returns, and limited access through suitable index funds. They are therefore excluded.
 
-#### REITs
-
-This note does not treat REITs as a separate asset class. Listed REITs behave more like stocks than bonds and differ from direct property ownership, so they add limited diversification to a market-cap-weighted equity portfolio. They are therefore excluded.
-
-#### Style and factor tilts
+#### Factor/sector tilts
 
 Avoid tilting toward quality, value, dividends (红利), low volatility (低波动), or other factors. Their future premiums are uncertain, and the funds generally cost more. To reduce risk, add bonds rather than relying on a factor tilt. For the equity sleeve, use broad, market-cap-weighted index funds.
 
@@ -92,17 +77,7 @@ Avoid sector tilts as well. Choosing the Nasdaq-100 over the S&P 500 is largely 
 
 ## Model portfolios
 
-### 20% stocks/80% bonds "Conservative"
-
-```mermaid
-pie
-"Bonds" : 80
-"CSI 800": 3.6
-"Hang Seng Index" : 2.4
-"S&P 500" : 14
-```
-
-### 40% stocks/60% bonds "Moderate"
+### 40% stocks/60% bonds "Conservative"
 
 ```mermaid
 pie
@@ -140,34 +115,3 @@ pie
 "Hang Seng Index" : 12
 "S&P 500" : 70
 ```
-
-## Practical guide
-
-### Which one should you pick?
-
-More stocks mean higher expected long-run returns, but also larger fluctuations and potential losses. Choose an allocation that fits your circumstances and your ability to tolerate those losses, then follow it consistently.
-
-### How to get started
-
-1. Open an account at a broker or fund platform (券商 or 基金 app).
-2. Pick a stock/bond split from above.
-3. Buy the matching funds in those proportions.
-4. Set up automatic monthly contributions (定投) to make investing consistent.
-5. Rebalance to your target allocation once a year. Otherwise, leave the portfolio alone.
-
-The hardest part is not choosing the funds; it is avoiding panic-selling when markets fall. Rebalance according to your chosen rule and otherwise remain invested through market downturns.
-
-### Other investment vehicles
-
-The following table summarizes other investment and savings vehicles that fall outside the model portfolios:
-
-| Vehicle                                          | Recommendation    | Why                                                                        |
-| ------------------------------------------------ | ----------------- | -------------------------------------------------------------------------- |
-| Term deposits 定期存款                           | ✅ Good for bonds | Near-zero risk, no fund fee, simple. A fine substitute for the bond slice. |
-| Money market funds 货币基金                      | ✅ Good for cash  | For emergency cash and parking, not a portfolio asset.                     |
-| Wealth management products 理财产品              | ⚠️ Caution        | Less transparent than 公募基金 and often heavily promoted by bank staff.   |
-| Investment properties 投资房                     | ⚠️ Caution        | Large, illiquid, concentrated. Outside the scope of this note.             |
-| Life insurance 储蓄型/投资型保险                 | ⚠️ Caution        | High cost, poor returns; mixes insurance with investing.                   |
-| Privately-held investment fund 私募基金          | ❌ Avoid          | High minimums, high fees, low transparency.                                |
-| Private equities/investment trusts 私募股权/信托 | ❌ Avoid          | Illiquid, opaque, and higher risk than they appear.                        |
-| Futures/options 期货/期权                        | ❌ Avoid          | Speculation, not investing — same bucket as day trading.                   |
